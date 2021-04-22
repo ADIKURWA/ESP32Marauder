@@ -1,5 +1,5 @@
 # IC Connections
-There are several ICs which add to the ESP32 Marauder's capabilities. The following can be found in amongst the various versions of the ESP32 Marauder:  
+There are several ICs which add to the ESP32 Marauder's capabilities. For newer versions of the ESP32 Marauder which feature multiple ICs, serial communication is represented in real time by an array of 0603 LEDs in the top right corner of the main PCB. The following can be found in amongst the various versions of the ESP32 Marauder:  
 
 ### ESP32 WROOM (32U)
 The ESP32 serves as the main IC in the ESP32 Marauder. It drives the display, touch input, internal file system, WiFi, Bluetooth, and interchip communications. More information can be found about the ESP32 WROOM from the datasheet [here](https://datasheet.lcsc.com/lcsc/2007061615_Espressif-Systems-ESP32-WROOM-32_C82899.pdf).
@@ -78,3 +78,7 @@ The ATmega32u4 is initially flashed with the Caterina bootloader and programmed 
 The ATmega32u4 is configured to use an external 16mhz crystal.
 
 ### USB2514B USB Hub
+This IC is only featured on certain versions of the ESP32 Marauder. The USB2514B is responsible for allowing the CH340C and [ATmega32u4](#atmega32u4) to communicate with an external machine over USB through one USB-C port. More information about the USB2514B can be found in its datasheet [here](https://datasheet.lcsc.com/lcsc/1809200030_Microchip-Tech-USB2514B-AEZC-TR_C16251.pdf). When the ESP32 Marauder is connected to an external machine, both the CH340C and the ATmega32u4 will populate as separate serial devices.  
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://assets.lcsc.com/images/lcsc/900x900/20180914_Microchip-Tech-USB2514B-AEZC-TR_C16251_front.jpg" width="300">
+</p>
