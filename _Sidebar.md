@@ -1,2 +1,6 @@
 - [Applications](applications)
   - [WiFi](wifi)
+    - [WiFi Sniffers](wifi-sniffers)
+    - [WiFi Attacks](wifi-attacks)
+  - [Bluetooth](bluetooth)
+    - [Bluetooth Sniffers](bluetooth-sniffers)
