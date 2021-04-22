@@ -2,6 +2,8 @@
 - [Hardware](hardware)
   - [Antenna Options](antenna-options)
   - [IC Connections](ic-connections)
+  - [Battery](battery)
+  - [3D Printed Enclosure](3d-printed-enclosure)
 - [Status Bar](status-bar)
 - [Applications](applications)
   - [WiFi](wifi)
