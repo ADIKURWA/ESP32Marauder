@@ -40,3 +40,41 @@ The ESP32 queries the battery level from the IP5306 I2C every 3000ms.
 The battery level is displayed on screen on the status bar. More information can be found about the status bar at [Status Bar](status-bar).
 
 Do not try to communicate via I2C with the non-I2C version of the IP5306. It will not work.
+
+### ESP8266
+The ESP8266 is only available on certain ESP32 Marauder boards. Early versions of the ESP32 Marauder do not feature this IC. The ESP8266 is responsible for carrying out WiFi transmission operations the ESP32 is incapable of such as Deauthentication attacks. More information about the ESP8266 can be found [here](https://datasheet.lcsc.com/lcsc/2102191804_Ai-Thinker-ESP-12F-ESP8266MOD_C82891.pdf).
+
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://assets.lcsc.com/images/lcsc/900x900/20180914_Ai-Thinker-ESP-12F-ESP8266MOD_C82891_front.jpg" width="300">
+</p>
+
+The following tables describes the physical connections between the ESP32 and ESP8266
+| ESP32 | ESP8266 |
+| ----- | ------- |
+| GPIO13 | GPIO0 |
+| GPIO14 | RST |
+| GPIO26 | RX |
+| GPIO27 | TX |
+
+The ESP32 and ESP8266 communicate over [HardwareSerial](https://github.com/arduino/ArduinoCore-avr/blob/master/cores/arduino/HardwareSerial.cpp)
+The ESP32 sends a heart beat to the ESP8266 every 1000ms and serves as a USB-Serial proxy to update the ESP8266's firmware when needed. The ESP32 is able to reboot the ESP8266 and select its boot mode. See [ESP8266 Update](esp8266-update) for more information.
+
+### ATmega32u4
+The ATmega32u4 is only available in certain versions of the ESP32 Marauder. Early versions of the ESP32 Marauder do not feature this chip. The ATmega32u4 is responsible for executing keystroke injection attacks driven by the ESP32. More information about the keystroke injection attacks of the ESP32 Marauder can be found at [BadUSB](badusb). More information about the ATmega32u4 can be found [here](https://datasheet.lcsc.com/lcsc/1809032024_Microchip-Tech-ATMEGA32U4-MU_C112161.pdf).
+
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://assets.lcsc.com/images/lcsc/900x900/20180914_Microchip-Tech-ATMEGA32U4-MU_C112161_front_10.jpg" width="300">
+</p>
+
+The following table describes the connections made between the ESP32 and the ATmega32u4:  
+| ESP32 | ATmega32u4 |
+| ----- | ---------- |
+| GPIO4 | RX |
+| GPIO25 | TX |
+
+The SPI interface of the ATmega32u4 is broken out at the bottom of the ESP32 Marauder to allow for ICSP.  
+The ATmega32u4 is initially flashed with the Caterina bootloader and programmed over USB with the source found [here](https://github.com/justcallmekoko/ESP32Marauder/blob/master/a32u4_marauder/a32u4_marauder.ino). The ATmega32u4 firmware in this repository is heavily borrowed from [Spacehuhn's](https://github.com/spacehuhn) [WiFi Duck](https://github.com/spacehuhn/wifi_ducky/blob/master/arduino_wifi_duck/arduino_wifi_duck.ino) project.  
+
+The ATmega32u4 is configured to use an external 16mhz crystal.
+
+### USB2514B USB Hub
