@@ -1,4 +1,7 @@
 - [Home](home)
+- [Hardware](hardware)
+  - [Antenna Options](antenna-options)
+  - [IC Connections](ic-connections)
 - [Status Bar](status-bar)
 - [Applications](applications)
   - [WiFi](wifi)
