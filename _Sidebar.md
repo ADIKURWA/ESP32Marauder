@@ -1,4 +1,5 @@
 - [Home](home)
+- [Status Bar](status-bar)
 - [Applications](applications)
   - [WiFi](wifi)
     - [WiFi Sniffers](wifi-sniffers)
