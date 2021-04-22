@@ -6,7 +6,7 @@ For the ESP32 Marauder version which feature an ESP32 and ESP8266 housing an IPE
   <img alt="ESP8266 ESP-07" src="https://assets.lcsc.com/images/lcsc/900x900/20200703_Ai-Thinker-ESP-07_C82894_front.jpg" width="300">
 </p>
 
-### Eternal Antenna Examples
+### External Antenna Examples
 
 #### PCB Antenna
 <p align="left">
