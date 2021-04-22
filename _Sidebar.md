@@ -16,7 +16,7 @@
       - [Join WiFi](join-wifi)
       - [Shutdown WiFi](shutdown-wifi)
       - [Add SSID](add-ssid)
-      - [Generate SSIDS](generate-ssids)
+      - [Generate SSIDs](generate-ssids)
       - [Clear SSIDs](clear-ssids)
   - [Bluetooth](bluetooth)
     - [Bluetooth Sniffers](bluetooth-sniffers)
