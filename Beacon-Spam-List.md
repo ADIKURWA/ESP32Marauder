@@ -54,3 +54,5 @@ The following information will be displayed on screen for each connection reques
 - Destination ESSID
 
 All connection requests against of the SSIDs in the list will be saved to an attached SD card in a PCAP file.
+
+This function can be exited by touching the screen. Once exited, the user will be sent back to the menu.
