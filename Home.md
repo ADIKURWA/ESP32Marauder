@@ -4,7 +4,7 @@ I hope you enjoy the project and find this documentation helpful.
 ## Socials 
 
 If you would like to chat with me and the rest of the community directly,  
-head over to my [discord]().
+head over to my [discord](https://discord.com/invite/M2YWpfjAvM).
 
 If you are willing to support me for free, check out the following links: 
 
