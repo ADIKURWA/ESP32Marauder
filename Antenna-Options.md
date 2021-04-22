@@ -18,7 +18,7 @@ For the ESP32 Marauder version which feature an ESP32 and ESP8266 housing an IPE
   <img alt="ESP32 WROOM-32U" src="https://images-na.ssl-images-amazon.com/images/I/31ZmBjRbtPL._SX342_.jpg" width="300">
 </p>
 
-#### Omnidirectional Atenna
+#### Omnidirectional Antenna
 <p align="left">
   <img alt="ESP32 WROOM-32U" src="https://i.pinimg.com/originals/00/37/48/0037486ff0a1931f5eb67236b6b011c0.jpg" width="300">
 </p>
