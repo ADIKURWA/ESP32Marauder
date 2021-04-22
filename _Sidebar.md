@@ -3,7 +3,7 @@
     - [WiFi Sniffers](wifi-sniffers)
       - [Probe Request Sniff](probe-request-sniff)
       - [Beacon Sniff](beacon-sniff)
-      - [Deauth Snif](deauth-sniff)
+      - [Deauth Sniff](deauth-sniff)
       - [Packet Monitor](packet-monitor)
       - [EAPOL PMKID Scan](eapol-pmkid-scan)
       - [Detect Pwnagotchi](detect-pwnagotchi)
