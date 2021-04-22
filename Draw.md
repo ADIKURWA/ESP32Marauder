@@ -1,0 +1,2 @@
+# Draw
+This application is just meant for testing the current screen calibration. The user is able to draw on the touch screen. To exit the Draw application, hit the colored lines in the corner of the screen.
