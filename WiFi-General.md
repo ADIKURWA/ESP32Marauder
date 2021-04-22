@@ -3,6 +3,6 @@ WiFi General administration is used to configure the WiFi capabilities of the ES
 
 - [Join WiFi](join-wifi)
 - [Shutdown WiFi](shutdown-wifi)
-- [Add SSID](add-wifi)
+- [Add SSID](add-ssid)
 - [Generate SSIDS](generate-ssids)
 - [Clear SSIDs](clear-ssids)
