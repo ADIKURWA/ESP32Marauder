@@ -1,4 +1,5 @@
 - [Home](home)
+- [Troubleshooting](troubleshooting)
 - [Hardware](hardware)
   - [Antenna Options](antenna-options)
   - [IC Connections](ic-connections)
