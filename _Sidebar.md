@@ -46,3 +46,4 @@
       - [ESP8266 Update](esp8266-update)
     - [Device Info](device-info)
   - [Reboot](reboot)
+- [Thanks](thanks)
