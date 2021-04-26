@@ -82,3 +82,24 @@ This IC is only featured on certain versions of the ESP32 Marauder. The USB2514B
 <p align="left">
   <img alt="ESP32 WROOM-32U" src="https://assets.lcsc.com/images/lcsc/900x900/20180914_Microchip-Tech-USB2514B-AEZC-TR_C16251_front.jpg" width="300">
 </p>
+
+### ILI9341 TFT Touch Screen
+Make the following connections between your 2.8" TFT Screen and your ESP32 board. You may need to refer to a pinout sheet specific to the ESP32 dev board you have chosen. For more infomation about this circuit, please refer to [this schematic](https://github.com/justcallmekoko/ESP32Marauder/blob/master/schematics/Schematic_ESP32-Marauder-2_ESP32-Marauder-2-Schematic_20191007113616_png.png)
+
+| SD Card | 2.8" TFT | ESP32  |
+| ------- | -------- | ------ |
+|         | VCC      | VCC    |
+|         | GND      | GND    |
+|         | CS       | GPIO17 |
+|         | RESET    | GPIO5  |
+|         | D/C      | GPIO16 |
+| SD_MOSI | MOSI     | GPIO23 |
+| SD_SCK  | SCK      | GPIO18 |
+|         | LED      | GPIO32 |
+| SD_MISO | MISO     | GPIO19 |
+|         | T_CLK    | GPIO18 |
+|         | T_CS     | GPIO21 |
+|         | T_DI     | GPIO23 |
+|         | T_DO     | GPIO19 |
+|         | T_IRQ    |        |
+| SD_CS   |          | GPIO12 |
