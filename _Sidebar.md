@@ -38,6 +38,7 @@
   - [General Apps](general-apps)
     - [Draw](draw)
   - [Device](device)
+    - [Installing Firmware](installing-firmware)
     - [Update Firmware](update-firmware)
       - [Web Update](web-update)
       - [SD Update](sd-update)
