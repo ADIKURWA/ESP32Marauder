@@ -1,4 +1,5 @@
 - [Home](home)
+- [About](about)
 - [Troubleshooting](troubleshooting)
 - [Hardware](hardware)
   - [Antenna Options](antenna-options)
