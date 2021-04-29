@@ -17,7 +17,7 @@ The ESP32 serves as the main IC in the ESP32 Marauder. It drives the display, to
 ### IP5306 / IP5306 I2C
 The IP5306 and IP5306 I2C are responsible for charging the on-board lipo battery as well as supplying the electrical components of the Marauder with power. Even though the LiPo included with the marauder is 3.7v, the output voltage of the IP5306 and IP5306 I2C is boosted to 5V. More information about the battery in the ESP32 Marauder can be found at [Battery](battery). More information can be found about the IP5306 from its datasheet [here](https://datasheet.lcsc.com/lcsc/1809201029_INJOINIC-IP5306_C181692.pdf)
 <p align="left">
-  <img alt="ESP32 WROOM-32U" src="https://assets.lcsc.com/images/lcsc/900x900/20180914_INJOINIC-IP5306_C181692_front.jpg" width="300">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_1842.JPG?raw=true" width="500">
 </p>
 
 #### Where the IP5306 and IP5306 I2C differ
@@ -45,7 +45,7 @@ Do not try to communicate via I2C with the non-I2C version of the IP5306. It wil
 The ESP8266 is only available on certain ESP32 Marauder boards. Early versions of the ESP32 Marauder do not feature this IC. The ESP8266 is responsible for carrying out WiFi transmission operations the ESP32 is incapable of such as Deauthentication attacks. More information about the ESP8266 can be found [here](https://datasheet.lcsc.com/lcsc/2102191804_Ai-Thinker-ESP-12F-ESP8266MOD_C82891.pdf).
 
 <p align="left">
-  <img alt="ESP32 WROOM-32U" src="https://assets.lcsc.com/images/lcsc/900x900/20180914_Ai-Thinker-ESP-12F-ESP8266MOD_C82891_front.jpg" width="300">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_1848.JPG?raw=true" width="500">
 </p>
 
 The following tables describes the physical connections between the ESP32 and ESP8266
@@ -63,7 +63,7 @@ The ESP32 sends a heart beat to the ESP8266 every 1000ms and serves as a USB-Ser
 The ATmega32u4 is only available in certain versions of the ESP32 Marauder. Early versions of the ESP32 Marauder do not feature this chip. The ATmega32u4 is responsible for executing keystroke injection attacks driven by the ESP32. More information about the keystroke injection attacks of the ESP32 Marauder can be found at [BadUSB](badusb). More information about the ATmega32u4 can be found [here](https://datasheet.lcsc.com/lcsc/1809032024_Microchip-Tech-ATMEGA32U4-MU_C112161.pdf).
 
 <p align="left">
-  <img alt="ESP32 WROOM-32U" src="https://assets.lcsc.com/images/lcsc/900x900/20180914_Microchip-Tech-ATMEGA32U4-MU_C112161_front_10.jpg" width="300">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_1844.JPG?raw=true" width="500">
 </p>
 
 The following table describes the connections made between the ESP32 and the ATmega32u4:  
@@ -80,7 +80,7 @@ The ATmega32u4 is configured to use an external 16mhz crystal.
 ### USB2514B USB Hub
 This IC is only featured on certain versions of the ESP32 Marauder. The USB2514B is responsible for allowing the CH340C and [ATmega32u4](#atmega32u4) to communicate with an external machine over USB through one USB-C port. More information about the USB2514B can be found in its datasheet [here](https://datasheet.lcsc.com/lcsc/1809200030_Microchip-Tech-USB2514B-AEZC-TR_C16251.pdf). When the ESP32 Marauder is connected to an external machine, both the CH340C and the ATmega32u4 will populate as separate serial devices.  
 <p align="left">
-  <img alt="ESP32 WROOM-32U" src="https://assets.lcsc.com/images/lcsc/900x900/20180914_Microchip-Tech-USB2514B-AEZC-TR_C16251_front.jpg" width="300">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_1845.JPG?raw=true" width="500">
 </p>
 
 ### ILI9341 TFT Touch Screen
