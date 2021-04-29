@@ -1,3 +1,7 @@
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/marauder%20screen.jfif?raw=true" width="500">
+</p>
+
 - [Home](home)
 - [About](about)
 - [Marauder Versions](marauder-versions)
