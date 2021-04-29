@@ -5,7 +5,6 @@
 2. Milk
 3. Butter (optional)
 4. Flour
-5. Salt
 6. Pepper
 7. Garlic Powder
 8. Onion Powder
@@ -20,7 +19,7 @@
 4. Mix grease and flour and cook a low-med heat to create a Roux
 5. Mix Roux and cooked sausage
 6. Add milk to desired gravy amount
-7. Add onion and garlic powder to taste
+7. Add pepper, onion, and garlic powder to taste
 8. Cook sausage gravy on low-med heat until gravy thickens
     - If gravy is too thick, add milk until desired consistency is achieved
 9. Add a few splashes of Worcestershire sauce and mix
