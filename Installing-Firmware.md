@@ -1,5 +1,9 @@
 # Installing Firmware
 
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/diy.png?raw=true" width="500">
+</p>
+
 If you are building your own Marauder, it will be necessary to run your own initial install of the ESP32 Marauder firmware. The following method uses the Arduino IDE. 
 
 1. Install the [Arduino IDE](https://www.arduino.cc/en/main/software)
