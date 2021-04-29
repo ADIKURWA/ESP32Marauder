@@ -1,4 +1,7 @@
 # Packet Monitor
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/icons/monitor_22.bmp?raw=true" width="100">
+</p>
 The ESP32 is able to filter captured WiFi traffic to display and harvest general 802.11 management frames on a graphical user interface.
 
 <p align="left">
