@@ -1,4 +1,7 @@
 # Web Update
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/icons/web_update_22.bmp?raw=true" width="100">
+</p>
 1. Download the [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the Marauder firmware
 2. With Marauder powered on, navigate to `Device`>`Update Firmware`>`Web Update`
     - Marauder will display details on screen about the status of the update
