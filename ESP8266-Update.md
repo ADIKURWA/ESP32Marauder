@@ -1,4 +1,7 @@
 # ESP8266 Update
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/icons/esp_update.bmp?raw=true" width="100">
+</p>
 **This feature is only available on the ESP32 Marauder Centauri and ESP32 Marauder 7. For more information on the two devices, see [Marauder Versions](marauder-versions).**  
 The ESP32 operates as a serial proxy between a host PC and the ESP8266. When a new version of the ESP8266 firmware is released and an update is available, the following steps will need to be taken in order to properly update the firmware of the ESP8266.  
 
