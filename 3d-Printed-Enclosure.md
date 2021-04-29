@@ -1,6 +1,10 @@
 # 3d Printed Enclosure
 The ESP32 Marauder sold on Tindie comes with its own 3D printed enclosure. If you want to replace the enclosure that came with yours or you want to try to fit your own hardware in an enclosure and have access to a 3D printer, you can download the STL files [here](https://github.com/justcallmekoko/ESP32Marauder/tree/master/3Dfiles) or from [Thingiverse](https://www.thingiverse.com/thing:4146626).
 
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_1852.JPG?raw=true" width="500">
+</p>
+
 Instructions from Thingiverse  
 Components of the project:
   - ESP32 Marauder
