@@ -8,7 +8,9 @@ This is the original ESP32 Marauder. The first Marauder which was available for 
 - ESP32 WROOM IPEX
 - SD Card implementation
 
-*Picture needed here*
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_0124.JPG?raw=true" width="500">
+</p>
 
 The original Marauder only features a single ESP32 WROOM chip, a two piece 3D printed enclosure, Micro USB Charging and programming, and rechargeable LiPo battery. This is one of two versions which has been sold on Tindie as of 27APR2021. **This version does not include BadUSB or Deauthentication capabilities**.  
 
