@@ -27,7 +27,9 @@ Like the ESP32 Marauder v6, the Centauri includes an 18650 battery holder and a 
 ## ESP32 Marauder 7
 As of 27APR2021, this is the latest version of the ESP32 Marauder. The PCB footprint and enclosure design is the same as the original ESP32 Marauder. This was done on purpose to give it somewhat of a [sleeper](https://www.urbandictionary.com/define.php?term=sleeper) status. The ESP32 Marauder 7 features an ESP32 WROOM, ESP8266, and an ATmega32u4, giving it the ability to execute WiFi and Bluetooth analysis operations, Deauthentication attacks, and keystroke injection attacks. For more information on these analysis and attack methodologies, see [WiFi Sniffers](wifi-sniffers), [WiFi Attacks](wifi-attacks), [Bluetooth Sniffers](bluetooth-sniffers), and [BadUSB](badusb).  
 
-*Picture needed here*  
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_1838.JPG?raw=true" width="300">
+</p> 
 
 Like the Marauder Centauri, the ESP32 Marauder 7 uses a USB-C port for USB communication and charging. The ESP32 still functions as a serial data proxy between the ESP8266 and the PC. Because of the ATmega32u4's native USB support, it is able to interface directly with a connected PC. The ATmega32u4 and CH340C (USB to UART convert for ESP32) are able to communicate with a connected PC through the single USB-C port. This is accomplished by using a USB Hub IC. For more information on these ICs and their connections, see [IC Connections](ic-connections).
 
