@@ -1,6 +1,10 @@
 # Packet Monitor
 The ESP32 is able to filter captured WiFi traffic to display and harvest general 802.11 management frames on a graphical user interface.
 
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_1853.JPG?raw=true" width="500">
+</p>
+
 ### Filtering Traffic
 Scan iterations occur once every 1/10th of a second.  
 Once a packet is captured, is check for 3 different identifying bytes:  
