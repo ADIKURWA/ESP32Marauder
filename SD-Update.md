@@ -1,4 +1,7 @@
 # SD Update
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/icons/sd_update_22.bmp?raw=true" width="100">
+</p>
 
 *Using a Samsung MicroSD card will cause Marauder not to boot*
 1. Download the [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the Marauder firmware
