@@ -1,4 +1,7 @@
 # Detect Card Skimmers
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/icons/skimmer_22.bmp?raw=true" width="100">
+</p>
 The ESP32 is capable of acting as a BLE device or host. As such, it can passively scan for surrounding BLE devices.  
 
 Through my research, I have found that credit card skimmers with Bluetooth capabilities often use hobbyist level Bluetooth development boards:  
