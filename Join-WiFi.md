@@ -1,4 +1,7 @@
 # Join WiFi
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/icons/join_wifi_22.bmp?raw=true" width="100">
+</p>
 The ESP32 Marauder is capable of joining a WiFi network. Once this option is selected, the user will be presented with two text boxes and an on-screen keyboard. The user must enter a valid ESSID and password to join a network.  
 
 Once a network is joined, several things will be true:  
