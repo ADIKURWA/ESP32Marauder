@@ -1,4 +1,7 @@
 # EAPOL PMKID Scan
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/icons/eapol_22.bmp?raw=true" width="100">
+</p>
 The ESP32 is able to filter captured WiFi traffic to display and harvest EAPOL PMKID packets on a graphical user interface. PMKID packets are saved to an attached SD card in PCAP files long with the necessary WiFi traffic in order for the user to carry out PMKID cracking on a 3rd party device.
 
 ### Filtering Traffic
