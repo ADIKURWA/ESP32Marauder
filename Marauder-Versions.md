@@ -38,3 +38,6 @@ As of 27APR2021, this is the latest version of the ESP32 Marauder. The PCB footp
 Like the Marauder Centauri, the ESP32 Marauder 7 uses a USB-C port for USB communication and charging. The ESP32 still functions as a serial data proxy between the ESP8266 and the PC. Because of the ATmega32u4's native USB support, it is able to interface directly with a connected PC. The ATmega32u4 and CH340C (USB to UART convert for ESP32) are able to communicate with a connected PC through the single USB-C port. This is accomplished by using a USB Hub IC. For more information on these ICs and their connections, see [IC Connections](ic-connections).
 
 For user awareness and troubleshooting, status LEDs are used to represent the serial communication between all ICs present on the Marauder 7 PCB.
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_1849.JPG?raw=true" width="500">
+</p>
