@@ -25,3 +25,9 @@
     - If gravy is too thick, add milk until desired consistency is achieved
 9. Add a few splashes of Worcestershire sauce and mix
 10. Make some biscuits or something
+
+### Conclusion
+Serve halved biscuits covered in sausage gravy...'Merica.
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/no_step_on_snek.jpg?raw=true" width="500">
+</p>
