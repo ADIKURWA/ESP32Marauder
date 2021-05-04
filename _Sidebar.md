@@ -52,4 +52,5 @@
     - [Device Info](device-info)
   - [Reboot](reboot)
 - [Thanks](thanks)
+- [Countdown Page](countdown-page)
 - [How to make biscuits and sausage gravy](how-to-make-biscuits-and-sausage-gravy)
