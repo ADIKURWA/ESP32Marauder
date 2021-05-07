@@ -2,6 +2,11 @@
 <p align="left">
   <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/icons/beacon_list_22.bmp?raw=true" width="100">
 </p>
+
+### Menu Location
+`WiFi`>`Attacks`>`Beacon Spam List`  
+
+### Info
 The ESP32 is capable of transmitting specially crafted WiFi packets.  
 In a beacon spam list attack, the ESP32 broadcasts beacon frames for each SSID contained within its list of SSIDs.  
 SSIDs can be added to the list by using [Generate SSIDs](generate-ssids) and [Add SSID](add-ssid).  
