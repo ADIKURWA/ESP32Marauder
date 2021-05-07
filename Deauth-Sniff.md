@@ -2,6 +2,11 @@
 <p align="left">
   <img alt="ESP32 WROOM-32U" src="https://raw.githubusercontent.com/justcallmekoko/ESP32Marauder/master/pictures/icons/deauth_sniff_22.bmp" width="100">
 </p>
+
+### Menu Location
+`WiFi`>`Sniffers`>`Deauth Sniff`  
+
+### Info
 The ESP32 is able to filter captured WiFi traffic to display and harvest deauths and disassociations sent from surrounding WiFi clients and APs against any network or client.  
 
 Once a packet is captured, it is checked for the identifying deauth or disassociation byte.
