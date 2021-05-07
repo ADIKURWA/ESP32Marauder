@@ -2,6 +2,10 @@
 <p align="left">
   <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/icons/beacon_spam_22.bmp?raw=true" width="100">
 </p>
+### Menu Location
+`WiFi`>`Attacks`>`Beacon Spam Random`  
+
+### Info
 The ESP32 is capable of transmitting specially crafted WiFi packets.  
 In a beacon spam random attack, beacons are broadcasted to all devices in range as fast as possible to overflow their lists of available network with invalid access points.
 
