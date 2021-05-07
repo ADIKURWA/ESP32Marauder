@@ -1,4 +1,9 @@
 # Run Ducky Script
+
+### Menu Location
+`BadUSB`>`Run Ducky Script`  
+
+### Info
 <b>The ESP32 Marauder must be connected to a target machine via USB</b>  
 Allows the user to run ducky script keystroke injection attacks against a target machine with physical access.  
 <b> This feature is only available on the ESP32 Marauder 7 </b>
