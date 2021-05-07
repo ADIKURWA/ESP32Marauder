@@ -2,6 +2,11 @@
 <p align="left">
   <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/icons/pwnagotchi_22.bmp?raw=true" width="100">
 </p>
+
+### Menu Location
+`WiFi`>`Sniffers`>`Detect Pwnagotchi`  
+
+### Info
 The ESP32 is able to filter captured WiFi traffic to display the information of any active [pwnagotchis](https://pwnagotchi.ai/) within range of this device.  
 
 ### Filtering Traffic
