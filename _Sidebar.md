@@ -23,7 +23,7 @@
       - [Beacon Spam List](beacon-spam-list)
       - [Beacon Spam Random](beacon-spam-random)
       - [Rick Roll Beacon](rick-roll-beacon)
-      - [Auth Flood](auth-flood)
+      - [Probe Request Flood](probe-request-flood)
       - [Deauth Flood](deauth-flood)
       - [Evil Twin](evil-twin)
       - [Captive Portal](captive-portal)
