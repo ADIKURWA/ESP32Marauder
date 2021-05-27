@@ -28,5 +28,6 @@ If you are building your own Marauder, it will be necessary to run your own init
 10. Plug your ESP32 into a USB port and select the COM port under `Tools`>`Port`
 11. Select `LOLIN D32` under `Tools`>`Boards`
 11.5 If you want an upscaled version of the logo, go to the data folder and rename "marauder3L1.jpg" to "marauder3L.jpg"
+12. For partition scheme, select `Minimal SPIFFS (Large APPS with OTA)`
 12. Click `ESP32 Sketch Data Upload` and wait for the SPIFFS upload to finish
 13. Click the upload button
