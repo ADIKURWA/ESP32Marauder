@@ -18,16 +18,17 @@ If you are building your own Marauder, it will be necessary to run your own init
     - [JPEGDecoder library](https://github.com/Bodmer/JPEGDecoder)
     - [NimBLE](https://github.com/h2zero/NimBLE-Arduino)
     - [NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
-    - [ArduinoJSON](https://github.com/bblanchon/ArduinoJson/releases/tag/v5.13.5)
+    - [ArduinoJSON](https://github.com/bblanchon/ArduinoJson/releases/tag/v5.13.5) **v5.13.5**
 <!---6. Install Bodmer's [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) library in your Arduino IDE--->
 6. Follow [these instructions](https://github.com/me-no-dev/arduino-esp32fs-plugin) for installing ESP32 Spiffs Tool
 7. Install the [CH340 Drivers](https://github.com/justcallmekoko/ESP32Marauder/blob/master/Drivers/CH34x_Install_Windows_v3_4.EXE)
 8. Download or clone this repository
-9. Open `esp32_marauder.ino`
+9. Open `esp32_marauder.ino`  
 9.5. If you're using the analog battery measuring circuit, go to the MenuFunctions.h and change "#define BATTERY_ANALOG_ON" to 1
 10. Plug your ESP32 into a USB port and select the COM port under `Tools`>`Port`
-11. Select `LOLIN D32` under `Tools`>`Boards`
+11. Select `LOLIN D32` under `Tools`>`Boards`  
 11.5 If you want an upscaled version of the logo, go to the data folder and rename "marauder3L1.jpg" to "marauder3L.jpg"
 12. For partition scheme, select `Minimal SPIFFS (Large APPS with OTA)`
 12. Click `ESP32 Sketch Data Upload` and wait for the SPIFFS upload to finish
+13. Copy my [User_Setup.h](https://github.com/justcallmekoko/ESP32Marauder/blob/master/User_Setup.h) into your TFT_eSPI library folder to replace the one already in there
 13. Click the upload button
