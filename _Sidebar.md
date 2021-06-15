@@ -1,5 +1,6 @@
 - [Home](home)
 - [About](about)
+- [FAQ](faq)
 - [Marauder Versions](marauder-versions)
 - [Troubleshooting](troubleshooting)
 - [Hardware](hardware)
