@@ -9,7 +9,7 @@
 - [My SD card is not detected by the Marauder](#my-sd-card-is-not-detected-by-the-marauder)
 
 ## I bought a Marauder and the screen is just black when I turn it on
-For some reason during shipping, the firmware is wiped from Flash. I am not sure what is causing this but the solution is to compile the firmware from source and upload using the Arduino IDE. Follow the instructions under [Installing Firmware](installing-firmware).
+There have been some rare cases where the Marauder firmware was wiped from flash during transit through USPS. I am not sure what is causing this but the solution is to compile the firmware from source and upload using the Arduino IDE. Follow the instructions under [Installing Firmware](installing-firmware).
 
 ## class TFT_eSPI has no member named setTouch or getTouch
 If you are building the project from source, ensure you are following the steps properly under [Installing Firmware](installing-firmware). If you are receiving this error, it is because you have not configured your `User_Setup.h`. Make sure you copy my `User_Setup.h` file into your `TFT_eSPI` library folder in your Arduino libraries.
