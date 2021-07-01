@@ -8,9 +8,9 @@ head over to my [discord](https://discord.com/invite/M2YWpfjAvM).
 
 If you are willing to support me for free, check out the following links: 
 
-- [Instagram](https://www.instagram.com/just.call.me.koko/?hl=en) - I post project updates and other tech related content
-- [Twitch](https://twitch.tv/willstunforfood) - I stream tech and gaming content. Happy to chat
-- [YouTube](https://www.youtube.com/justcallmekoko) - I post tech tutorials and project updates
+- [Instagram](https://www.instagram.com/just.call.me.koko/?hl=en)
+- [Twitch](https://twitch.tv/willstunforfood)
+- [YouTube](https://www.youtube.com/justcallmekoko)
 
 ## Store
 
