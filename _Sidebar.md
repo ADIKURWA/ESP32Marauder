@@ -3,6 +3,7 @@
 - [FAQ](faq)
 - [Marauder Versions](marauder-versions)
 - [Troubleshooting](troubleshooting)
+- [ESP32 Marauder Kit](esp32-marauder-kit)
 - [Hardware](hardware)
   - [Antenna Options](antenna-options)
   - [IC Connections](ic-connections)
