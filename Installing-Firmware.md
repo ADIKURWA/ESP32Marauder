@@ -51,12 +51,12 @@ If you are building your own Marauder or assembling the ESP32 Marauder Kit, it w
 #define KIT
 ```
 
-10. Plug your ESP32 into a USB port and select the COM port under `Tools`>`Port`
-11. Select the appropriate ESP32 module under `Tools`>`Boards`
+11. Plug your ESP32 into a USB port and select the COM port under `Tools`>`Port`
+12. Select the appropriate ESP32 module under `Tools`>`Boards`
     - If you are using the original ESP32 Marauder: `LOLIN D32`
     - If you are using the ESP32 Marauder V6: `LOLIN D32`
     - If you are using the ESP32 Marauder Kit: `Adafruit ESP32 Feather`
-12. For partition scheme, select `Minimal SPIFFS (Large APPS with OTA)`
-12. Click `ESP32 Sketch Data Upload` and wait for the SPIFFS upload to finish
-13. Copy my [User_Setup.h](https://github.com/justcallmekoko/ESP32Marauder/blob/master/User_Setup.h) into your TFT_eSPI library folder to replace the one already in there
-13. Click the upload button
+13. For partition scheme, select `Minimal SPIFFS (Large APPS with OTA)`
+14. Click `ESP32 Sketch Data Upload` and wait for the SPIFFS upload to finish
+15. Copy my [User_Setup.h](https://github.com/justcallmekoko/ESP32Marauder/blob/master/User_Setup.h) into your TFT_eSPI library folder to replace the one already in there
+16. Click the upload button
