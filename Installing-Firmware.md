@@ -23,8 +23,34 @@ If you are building your own Marauder or assembling the ESP32 Marauder Kit, it w
 6. Follow [these instructions](https://github.com/me-no-dev/arduino-esp32fs-plugin) for installing ESP32 Spiffs Tool
 7. Install the [CH340 Drivers](https://github.com/justcallmekoko/ESP32Marauder/blob/master/Drivers/CH34x_Install_Windows_v3_4.EXE)
 8. Download or clone this repository
-9. Open `esp32_marauder.ino`  
+9. Open `esp32_marauder.ino` in your Arduino IDE
     - If you're using the analog battery measuring circuit, go to the MenuFunctions.h and change "#define BATTERY_ANALOG_ON" to 1
+10. Find the [following lines](https://github.com/justcallmekoko/ESP32Marauder/blob/master/esp32_marauder/Display.h#L49) in `Display.h` and change them according to your hardware version. to determine which version you posses, see [Marauder Versions](marauder-versions) 
+```C++
+// EXAMPLE
+#define TFT_SHIELD
+#define TFT_DIY
+#define KIT
+```
+```C++
+// For original ESP32 Marauder
+#define TFT_SHIELD
+//#define TFT_DIY
+//#define KIT
+```
+```C++
+// For ESP32 Marauder v6
+//#define TFT_SHIELD
+#define TFT_DIY
+//#define KIT
+```
+```C++
+// For ESP32 Marauder Kit
+//#define TFT_SHIELD
+#define TFT_DIY
+#define KIT
+```
+
 10. Plug your ESP32 into a USB port and select the COM port under `Tools`>`Port`
 11. Select the appropriate ESP32 module under `Tools`>`Boards`
     - If you are using the original ESP32 Marauder: `LOLIN D32`
