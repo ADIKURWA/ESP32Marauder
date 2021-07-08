@@ -41,3 +41,9 @@ For user awareness and troubleshooting, status LEDs are used to represent the se
 <p align="left">
   <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_1849.JPG?raw=true" width="500">
 </p>
+
+## ESP32 Marauder Kit
+It's a kit
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_3491%20-%20Copy.jpg?raw=true" width="500">
+</p>
