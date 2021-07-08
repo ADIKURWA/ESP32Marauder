@@ -1,4 +1,7 @@
 # ESP32 Marauder Kit
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_3491%20-%20Copy.jpg?raw=true" width="500">
+</p>
 The ESP32 Marauder Kit is a bundle of hardware components that allow a user to assemble a fully functional ESP32 Marauder. All that is required from the user is that they must provide their own [Adafruit Huzzah32](https://www.adafruit.com/product/3405) flashed with the ESP32 Marauder firmware, and a 3.7V LiPo battery compatible with the Huzzah32. 
 
 ### Installing Firmware
@@ -11,3 +14,7 @@ To build the ESP32 Marauder firmware from source and install it on the Adafruit 
     - Note: Ensure the power switch of the ESP32 Marauder Kit PCB is in the `off` position
 4. Using some sort of adhesive such as double sided tape or glue, fix the 3.7V LiPo battery to the inside of the Marauder enclosure
 5. Using the 4 included M2.5 x 5mm screws, screw the ESP32 Marauder PCB to the enclosure so that the TFT Touch screen faces outward
+<p align="left">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_3484%20-%20Copy.jpg?raw=true" height="400">
+  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_3485%20-%20Copy.jpg?raw=true" height="400">
+</p>
