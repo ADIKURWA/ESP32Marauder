@@ -17,26 +17,26 @@ You have two options for installing firmware. If you want to hit the ground runn
 
 ### Installing Firmware Over The Air (OTA) (Option 1)(easy)
 *to-do*
-- Follow the instructions under [Arduino IDE Setup](arduino-ide-setup)
-- Open the Arduino IDE
-- Plug your ESP32 Marauder Kit into a USB port and select the COM port under `Tools`>`Port`
-- Select the appropriate ESP32 module under `Tools`>`Boards`
+1. Follow the instructions under [Arduino IDE Setup](arduino-ide-setup)
+2. Open the Arduino IDE
+3. Plug your ESP32 Marauder Kit into a USB port and select the COM port under `Tools`>`Port`
+4. Select the appropriate ESP32 module under `Tools`>`Boards`
     - If you are using the ESP32 Marauder Kit: `Adafruit ESP32 Feather`
-- For partition scheme, select `Minimal SPIFFS (Large APPS with OTA)`
-- Copy the ESP32 Marauder OTA Upload firmware source from *[(to-do)](https://github.com/justcallmekoko/ESP32Marauder/issues/88)* [here](esp32-marauder-kit) into your Arduino IDE window
-- Click the Upload button in the top left corner of the Arduino IDE and let the code compile and upload to the ESP32 Marauder
-- Download the [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the ESP32 Marauder firmware
-- Connect to the ESP32 Marauder OTA WiFi network
+5. For partition scheme, select `Minimal SPIFFS (Large APPS with OTA)`
+6. Copy the ESP32 Marauder OTA Upload firmware source from *[(to-do)](https://github.com/justcallmekoko/ESP32Marauder/issues/88)* [here](esp32-marauder-kit) into your Arduino IDE window
+7. Click the Upload button in the top left corner of the Arduino IDE and let the code compile and upload to the ESP32 Marauder
+8. Download the [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the ESP32 Marauder firmware
+9. Connect to the ESP32 Marauder OTA WiFi network
     - Network ESSID: `MarauderOTA`
     - Network Password: `justcallmekoko`
-- Open your web browser application
-- Navigate to http://192.168.4.1
-- Login using the provided credentials
+10. Open your web browser application
+11. Navigate to http://192.168.4.1
+12. Login using the provided credentials
     - Username: `admin`
     - Password: `admin`
-- Once you are logged in, refresh the web page
-- Browse for the firmware file you downloaded
-- Click the `Update` button
+13. Once you are logged in, refresh the web page
+14. Browse for the firmware file you downloaded
+15. Click the `Update` button
     - The ESP32 Marauder will automatically reboot once the update process is complete
 
 ### Building and Installing Firmware from source (Option 2)(not easy)
