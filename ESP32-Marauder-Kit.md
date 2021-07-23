@@ -23,7 +23,7 @@ You have two options for installing firmware. If you want to hit the ground runn
 - Select the appropriate ESP32 module under `Tools`>`Boards`
     - If you are using the ESP32 Marauder Kit: `Adafruit ESP32 Feather`
 - For partition scheme, select `Minimal SPIFFS (Large APPS with OTA)`
-- Copy the ESP32 Marauder OTA Upload firmware source from *(to-do)*[here](esp32-marauder-kit) into your Arduino IDE window
+- Copy the ESP32 Marauder OTA Upload firmware source from *[(to-do)](https://github.com/justcallmekoko/ESP32Marauder/issues/88)* [here](esp32-marauder-kit) into your Arduino IDE window
 - Click the Upload button in the top left corner of the Arduino IDE and let the code compile and upload to the ESP32 Marauder
 - Download the [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the ESP32 Marauder firmware
 - Connect to the ESP32 Marauder OTA WiFi network
