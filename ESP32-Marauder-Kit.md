@@ -10,6 +10,17 @@ You have two options for installing firmware. If you want to hit the ground runn
 
 ### Installing Firmware Over The Air (OTA) (Option 1)(easy)
 *to-do*
+- Install and run the [Arduino IDE](https://www.arduino.cc/en/software)
+- Download the [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the ESP32 Marauder firmware
+- Connect to the ESP32 Marauder OTA WiFi network
+- Open your web browser application
+- Navigate to http://192.168.4.1
+- Login using the provide credentials
+    - Username:
+    - Password: 
+- Once you are logged in, refresh the web page
+- Browse for the firmware file you downloaded
+- Click the `Upload` button
 
 ### Building and Installing Firmware from source (Option 2)(not easy)
 To build the ESP32 Marauder firmware from source and install it on the Adafruit Huzzah32, follow the instructions under [Installing Firmware](installing-firmware).
