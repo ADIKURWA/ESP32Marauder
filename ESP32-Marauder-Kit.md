@@ -16,14 +16,13 @@ The ESP32 Marauder Kit is a bundle of hardware components that allow a user to a
 You have two options for installing firmware. If you want to hit the ground running as fast as possible with minimal effort, I recommend Option 1. If you want to get to know the source code and the build process, try Option 2. If Option 2 fails, try Option 1.
 
 ### Installing Firmware Over The Air (OTA) (Option 1)(easy)
-*to-do*
 1. Follow the instructions under [Arduino IDE Setup](arduino-ide-setup)
 2. Open the Arduino IDE
 3. Plug your ESP32 Marauder Kit into a USB port and select the COM port under `Tools`>`Port`
 4. Select the appropriate ESP32 module under `Tools`>`Boards`
     - If you are using the ESP32 Marauder Kit: `Adafruit ESP32 Feather`
 5. For partition scheme, select `Minimal SPIFFS (Large APPS with OTA)`
-6. Copy the ESP32 Marauder OTA Upload firmware source from *[(to-do)](https://github.com/justcallmekoko/ESP32Marauder/issues/88)* [here](esp32-marauder-kit) into your Arduino IDE window
+6. Copy the ESP32 Marauder OTA Upload firmware source from [here](https://raw.githubusercontent.com/justcallmekoko/ESP32Marauder/master/MarauderOTA/MarauderOTA.ino) into your Arduino IDE window
 7. Click the Upload button in the top left corner of the Arduino IDE and let the code compile and upload to the ESP32 Marauder
 8. Download the [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the ESP32 Marauder firmware
 9. Connect to the ESP32 Marauder OTA WiFi network
