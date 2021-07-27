@@ -56,6 +56,7 @@
       - [SD Update](sd-update)
       - [ESP8266 Update](esp8266-update)
     - [Device Info](device-info)
+    - [Settings](settings)
   - [Reboot](reboot)
 - [Thanks](thanks)
 - [Countdown Page](countdown-page)
