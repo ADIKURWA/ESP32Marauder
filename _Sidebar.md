@@ -39,6 +39,7 @@
       - [Clear SSIDs](clear-ssids)
       - [Clear APs](clear-aps)
       - [Select APs](select-aps)
+      - [Select Clients](select-clients)
   - [Bluetooth](bluetooth)
     - [Bluetooth Sniffers](bluetooth-sniffers)
       - [Bluetooth Sniffer](bluetooth-sniffer)
