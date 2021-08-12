@@ -49,7 +49,8 @@ To build the ESP32 Marauder firmware from source and install it on the Adafruit 
 2. Connect the Huzzah32 to the ESP32 Marauder Kit PCB
     - *supporting image here*
 3. Connect your 3.7V LiPo battery to the JST connector of the Huzzah32
-    - Note: Ensure the power switch of the ESP32 Marauder Kit PCB is in the `off` position
+    - Ensure the power switch of the ESP32 Marauder Kit PCB is in the `off` position
+    - If you need to remove the battery, be careful not to rip the wires from the JST housing. The JST connector is tight
 4. Using some sort of adhesive such as double sided tape or glue, fix the 3.7V LiPo battery to the inside of the Marauder enclosure
     - *supporting image here*
 5. Using the 4 included M2.5 x 5mm screws, screw the ESP32 Marauder PCB to the enclosure so that the TFT Touch screen faces outward
