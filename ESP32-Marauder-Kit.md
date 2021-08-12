@@ -18,7 +18,7 @@ You have two options for installing firmware. If you want to hit the ground runn
 ### Installing Firmware Over The Air (OTA) (Option 1)(easy)
 1. Follow the instructions under [Arduino IDE Setup](arduino-ide-setup)
 2. Open the Arduino IDE
-3. Plug your ESP32 Marauder Kit into a USB port and select the COM port under `Tools`>`Port`
+3. Plug your ESP32 Marauder Kit into a USB port using a micro USB data cable and select the COM port under `Tools`>`Port`
 4. Select the appropriate ESP32 module under `Tools`>`Boards`
     - If you are using the ESP32 Marauder Kit: `Adafruit ESP32 Feather`
 5. For partition scheme, select `Minimal SPIFFS (Large APPS with OTA)`
