@@ -13,7 +13,7 @@ The ESP32 Marauder Kit is a bundle of hardware components that allow a user to a
 - [Using Your ESP32 Marauder Kit](#using-your-esp32-marauder-kit)
 
 ## Firmware Install Options (Pick One)
-You have two options for installing firmware. If you want to hit the ground running as fast as possible with minimal effort, I recommend Option 1. You will also have Option 1 available in future firmware updates (see [Update Firmware](update-firmware). If you want to get to know the source code and the build process, try Option 2. If Option 2 fails, try Option 1.
+You have two options for installing firmware. If you want to hit the ground running as fast as possible with minimal effort, I recommend Option 1. You will also have Option 1 available in future firmware updates (see [Update Firmware](update-firmware)). If you want to get to know the source code and the build process, try Option 2. If Option 2 fails, try Option 1.
 
 ### Installing Firmware Over The Air (OTA) (Option 1)(easy)
 1. Follow the instructions under [Arduino IDE Setup](arduino-ide-setup)
