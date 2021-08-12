@@ -11,6 +11,7 @@
   - [IC Connections](ic-connections)
   - [Battery](battery)
   - [3D Printed Enclosure](3d-printed-enclosure)
+  - [External Antenna Mod](external-antenna-mod)
 - [Status Bar](status-bar)
 - [Applications](applications)
   - [WiFi](wifi)
