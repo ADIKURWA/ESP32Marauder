@@ -6,6 +6,8 @@
     - https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
 4. Go to `Tools`>`Board`>`Boards Manager`, search for `esp32` and install `esp32 by Espressif Systems`
     - Make sure it is version `2.0.0-rc1`
+5. Install the [CP210X Drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
+6. Install the [CH340X Drivers](https://github.com/justcallmekoko/ESP32Marauder/blob/master/Drivers/CH34x_Install_Windows_v3_4.EXE)
 
 ### These next steps only apply if you plan to build the full ESP32 Marauder firmware from source
 ### If you are following [these instructions](https://github.com/justcallmekoko/ESP32Marauder/wiki/esp32-marauder-kit#installing-firmware-over-the-air-ota-option-1easy), you do not need to do this
