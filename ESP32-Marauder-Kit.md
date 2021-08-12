@@ -27,7 +27,7 @@ You have two options for installing firmware. If you want to hit the ground runn
 7. Click the Upload button in the top left corner of the Arduino IDE and let the code compile and upload to the ESP32 Marauder
 8. Download the [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the ESP32 Marauder firmware
     - The file you want will have `_kit` at the end of its name
-9. Connect to the ESP32 Marauder OTA WiFi network
+9. With the ESP32 Marauder Kit powered on, Connect to the ESP32 Marauder OTA WiFi network
     - Network ESSID: `MarauderOTA`
     - Network Password: `justcallmekoko`
 10. Open your web browser application
