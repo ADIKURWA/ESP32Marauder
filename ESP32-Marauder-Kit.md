@@ -32,6 +32,8 @@ The ESP32 Marauder Kit is a bundle of hardware components that allow a user to a
 You have two options for installing firmware. If you want to hit the ground running as fast as possible with minimal effort, I recommend Option 1. You will also have Option 1 available in future firmware updates (see [Update Firmware](update-firmware)). If you want to get to know the source code and the build process, try Option 2. If Option 2 fails, try Option 1.
 
 ### Installing Firmware Over The Air (OTA) (Option 1)(easy)
+The original ESP32 Marauder firmware uses many libraries and a few IDF modifications. To avoid having to install and configure all of these libraries, this options allows the user to install a very basic firmware to the ESP32 Marauder. This firmware will not involve any additional libraries or configurations and it will allow the user to install the precompiled Marauder binary via a web browser.
+
 1. Follow the instructions under [Arduino IDE Setup](arduino-ide-setup)
 2. Open the Arduino IDE
 3. Plug your ESP32 Marauder Kit into a USB port using a micro USB data cable and select the COM port under `Tools`>`Port`
