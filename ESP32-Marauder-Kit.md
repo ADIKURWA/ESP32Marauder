@@ -6,11 +6,23 @@
 The ESP32 Marauder Kit is a bundle of hardware components that allow a user to assemble a fully functional ESP32 Marauder. All that is required from the user is that they must provide their own [Adafruit Huzzah32](https://www.adafruit.com/product/3405) flashed with the ESP32 Marauder firmware, and a 3.7V LiPo battery compatible with the Huzzah32. 
 
 # Table of Contents
+- [Kit Contents](#kit-contents)
 - [Assembling Hardware](#assembling-hardware)
 - [Firmware Install Options (Pick One)](#firmware-install-options-pick-one)
   - [Installing Firmware Over The Air (OTA) (Option 1)(easy)](#installing-firmware-over-the-air-ota-option-1easy)
   - [Building and Installing Firmware from source (Option 2)(not easy)](#building-and-installing-firmware-from-source-option-2not-easy)
 - [Using Your ESP32 Marauder Kit](#using-your-esp32-marauder-kit)
+
+## Kit Contents
+#### What is included
+- 1x ESP32 Marauder Kit PCB
+- 1x 3D printed enclosure w/ threaded brass inserts
+- 4x M2.5 x 9mm hex screws
+- 1x Documentation slip with QR code
+
+### What is required but not included
+- 1x 3.7v LiPo battery with JST connector
+- 1x Adafruit Huzzah32
 
 ## Assembling Hardware
 1. Solder the male header pins included with your Adafruit Huzzah32 to the Huzzah32 board
