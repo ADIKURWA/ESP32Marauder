@@ -15,7 +15,7 @@
 - [Status Bar](status-bar)
 - [CLI](cli)
   - [Usage](cli-usage)
-    - [scanap](stopscan)
+    - [scanap](scanap)
     - [stopscan](stopscan)
     - [clearap](clearap)
 - [Applications](applications)
