@@ -6,3 +6,5 @@ Does a scan of wireless access points and saves them to a list to be used in fut
   - `-c` Specify channel
   - `-t` Duration of scan (seconds)
   - `-n` New scan list (clears old scan list)
+
+This scan can be stopped with [stopscan](stopscan)
