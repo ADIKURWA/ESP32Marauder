@@ -13,6 +13,7 @@
   - [3D Printed Enclosure](3d-printed-enclosure)
   - [External Antenna Mod](external-antenna-mod)
 - [Status Bar](status-bar)
+- [CLI](cli)
 - [Applications](applications)
   - [WiFi](wifi)
     - [WiFi Sniffers](wifi-sniffers)
