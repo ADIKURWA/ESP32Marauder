@@ -22,31 +22,7 @@ If you are building your own Marauder or assembling the ESP32 Marauder Kit, it w
 5. Download or clone this repository
 6. Open `esp32_marauder.ino` in your Arduino IDE
     - If you're using the analog battery measuring circuit, go to the MenuFunctions.h and change "#define BATTERY_ANALOG_ON" to 1
-7. Find the [following lines](https://github.com/justcallmekoko/ESP32Marauder/blob/master/esp32_marauder/Display.h#L49) in `Display.h` and change them according to your hardware version. to determine which version you posses, see [Marauder Versions](marauder-versions) 
-```C++
-// EXAMPLE
-#define TFT_SHIELD
-#define TFT_DIY
-#define KIT
-```
-```C++
-// For original ESP32 Marauder
-#define TFT_SHIELD
-//#define TFT_DIY
-//#define KIT
-```
-```C++
-// For ESP32 Marauder v6
-//#define TFT_SHIELD
-#define TFT_DIY
-//#define KIT
-```
-```C++
-// For ESP32 Marauder Kit
-//#define TFT_SHIELD
-#define TFT_DIY
-#define KIT
-```
+7. Define your hardware version with the [following lines](https://github.com/justcallmekoko/ESP32Marauder/blob/master/esp32_marauder/configs.h#L7) in `config.h`. To determine which version you posses, see [Marauder Versions](marauder-versions) 
 
 8. Plug your ESP32 into a USB port and select the COM port under `Tools`>`Port`
 9. Select the appropriate ESP32 module under `Tools`>`Boards`
