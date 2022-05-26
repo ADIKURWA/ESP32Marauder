@@ -71,7 +71,7 @@ The original ESP32 Marauder firmware uses many libraries and a few IDF modificat
     - The ESP32 Marauder will automatically reboot once the update process is complete
 
 ### Building and Installing Firmware from source (Option 2)(not easy)
-To build the ESP32 Marauder firmware from source and install it on the Adafruit Huzzah32, follow the instructions under [Installing Firmware](installing-firmware).
+To build the ESP32 Marauder firmware from source and install it on the Adafruit Huzzah32, follow the instructions under [Installing Firmware From Source](installing-firmware-from-source).
 
 ## Using Your ESP32 Marauder Kit
 Now that you have assembled and programmed your Adafruit Huzzah32, you should have a fully functional ESP32 Marauder. To start getting familiar with its capabilities, read through the [Applications](applications).
