@@ -7,7 +7,7 @@
   - [Arduino IDE Setup](arduino-ide-setup)
   - [ESP32 Marauder Kit](esp32-marauder-kit)
   - [Flipper Zero](flipper-zero)
-  - [Installing Firmware](installing-firmware)
+  - [Installing Firmware From Source](installing-firmware-from-source)
 - [Hardware](hardware)
   - [Antenna Options](antenna-options)
   - [IC Connections](ic-connections)
