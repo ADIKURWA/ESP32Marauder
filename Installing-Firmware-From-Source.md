@@ -1,4 +1,4 @@
-# Installing Firmware
+# Installing Firmware From Source
 
 <p align="left">
   <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/diy.png?raw=true" width="500">
