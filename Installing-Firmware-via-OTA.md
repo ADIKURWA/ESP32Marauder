@@ -6,13 +6,28 @@ The original ESP32 Marauder firmware uses many libraries and a few IDF modificat
 2. Open the Arduino IDE
 3. Plug your ESP32 Marauder Kit into a USB port using a micro USB data cable and select the COM port under `Tools`>`Port`
 4. Select the appropriate ESP32 module under `Tools`>`Boards`
-    - If you are using the ESP32 Marauder Kit: `Adafruit ESP32 Feather`
+    - Select `LOLIN D32` for the following:
+      - Marauder v4 (OG)
+      - Marauder v6
+      - Marauder Mini
+    - Select `Adafruit ESP32 Feather` for the following:
+      - Marauder Kit
+    - Select `ESP32-S2 dev board` for the following:
+      - Marauder Flipper (Flipper Zero WiFi Dev Board)
     - If you do not see this board option, ensure your Arduino IDE is on the latest version
 5. For partition scheme, select `Minimal SPIFFS (Large APPS with OTA)`
 6. Copy the ESP32 Marauder OTA Upload firmware source from [here](https://raw.githubusercontent.com/justcallmekoko/ESP32Marauder/master/MarauderOTA/MarauderOTA.ino) into your Arduino IDE window
 7. Click the Upload button in the top left corner of the Arduino IDE and let the code compile and upload to the ESP32 Marauder
 8. Download the [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the ESP32 Marauder firmware
-    - The file you want will have `_kit` at the end of its name
+
+| Hardware | Binary Version |
+| -------- | -------------- |
+| v4 (OG) | `_old_hardware.bin` |
+| v6 | `_new_hardware.bin` |
+| Kit | `_kit.bin` |
+| Mini | `_mini.bin` |
+| Flipper Zero | `_flipper.bin` |
+
 9. With the ESP32 Marauder Kit powered on, Connect to the ESP32 Marauder OTA WiFi network
     - Network ESSID: `MarauderOTA`
     - Network Password: `justcallmekoko`
