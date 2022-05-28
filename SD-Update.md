@@ -5,6 +5,15 @@
 
 *Using a Samsung MicroSD card will cause Marauder not to boot*
 1. Download the [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the Marauder firmware
+
+| Hardware | Binary Version |
+| -------- | -------------- |
+| v4 (OG) | `_old_hardware.bin` |
+| v6 | `_new_hardware.bin` |
+| Kit | `_kit.bin` |
+| Mini | `_mini.bin` |
+| Flipper Zero | `_flipper.bin` |
+
 2. Copy the bin file you downloaded to the root of an SD card
 3. Rename the bin file on the SD card to `update.bin`
 4. With Marauder powered off, insert the SD card into Marauder
