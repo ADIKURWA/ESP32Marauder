@@ -4,6 +4,15 @@
 </p>
 
 1. Download the [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the Marauder firmware
+
+| Hardware | Binary Version |
+| -------- | -------------- |
+| v4 (OG) | `_old_hardware.bin` |
+| v6 | `_new_hardware.bin` |
+| Kit | `_kit.bin` |
+| Mini | `_mini.bin` |
+| Flipper Zero | `_flipper.bin` |
+
 2. With Marauder powered on, navigate to `Device`>`Update Firmware`>`Web Update`
     - Marauder will display details on screen about the status of the update
 3. Connect to the MarauderOTA WiFi network from your computer
