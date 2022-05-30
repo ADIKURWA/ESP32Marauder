@@ -7,6 +7,7 @@
 - [Does the Marauder firmware work on other ESP32 devices](#does-the-marauder-firmware-work-on-other-esp32-devices)
 - [I updated the Marauder and now the touch screen does not work](#i-updated-the-marauder-and-now-the-touch-screen-does-not-work)
 - [My SD card is not detected by the Marauder](#my-sd-card-is-not-detected-by-the-marauder)
+- [I tried to compile the firmware and it complained about LVGL](#i-tried-to-compile-the-firmware-and-it-complained-about-lvgl)
 
 ## I bought a Marauder and the screen is just black when I turn it on
 There have been some rare cases where the Marauder firmware was wiped from flash during transit through USPS. I am not sure what is causing this but the solution is to compile the firmware from source and upload using the Arduino IDE. Follow the instructions under [Installing Firmware](installing-firmware).
@@ -28,3 +29,6 @@ If the screen does not work after updating the firmware, it is possible you used
 
 ## My SD card is not detected by the Marauder
 Ensure the size of the SD card you are using is less than or equal to 32GB. If this is the case, try using an SD card by Sandisk. Some other brands of SD card such as Samsung cause the Marauder not to boot properly or not initialize the SD card.
+
+## I tried to compile the firmware and it complained about LVGL
+Make sure you have installed [`lv-arduino`](https://github.com/lvgl/lv_arduino) and not [`lvgl`](https://github.com/lvgl/lvgl) in your Arduino IDE
