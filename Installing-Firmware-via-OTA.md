@@ -4,7 +4,7 @@ The original ESP32 Marauder firmware uses many libraries and a few IDF modificat
 
 1. Follow the instructions under [Arduino IDE Setup](arduino-ide-setup)
 2. Open the Arduino IDE
-3. Plug your ESP32 into a USB port using a micro USB data cable and select the COM port under `Tools`>`Port`
+3. Plug your ESP32 into a USB port and select the COM port under `Tools`>`Port`
 4. Select the appropriate ESP32 module under `Tools`>`Boards`
     - Select `LOLIN D32` for the following:
       - Marauder v4 (OG)
