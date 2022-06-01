@@ -4,6 +4,16 @@ This feature is actively being developed for firmware v0.9.6. The goal is to pro
 For full usage on how to establish a connection to the Marauder command line interface, see [Usage](cli-usage)
 
 Here are the currently supported commands:
+- General admin commands
+  - [reboot](reboot)
+- WiFi Scanning/Sniffing
   - [scanap](scanap)
+  - [sniffbeacon](sniffbeacon)
+  - [sniffdeauth](sniffdeauth)
+  - [sniffpmkid](sniffpmkid)
   - [stopscan](stopscan)
+- WiFi Aux commands
+  - [channel](channel)
   - [clearap](clearap)
+  - [listap](listap)
+  - [select](select)
