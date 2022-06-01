@@ -5,7 +5,7 @@ For full usage on how to establish a connection to the Marauder command line int
 
 Here are the currently supported commands:
 - General admin commands
-  - [reboot](reboot)
+  - [reboot](reboot-cmd)
 - WiFi Scanning/Sniffing
   - [scanap](scanap)
   - [sniffbeacon](sniffbeacon)
