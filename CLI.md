@@ -12,6 +12,8 @@ Here are the currently supported commands:
   - [sniffdeauth](sniffdeauth)
   - [sniffpmkid](sniffpmkid)
   - [stopscan](stopscan)
+- WiFi Attacks
+  - [attack](attack)
 - WiFi Aux commands
   - [channel](channel)
   - [clearap](clearap)
