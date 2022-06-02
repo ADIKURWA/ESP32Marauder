@@ -1,4 +1,4 @@
-#scanap
+# scanap
 Does a scan of wireless access points and saves them to a list to be used in future operations.
 
 ## Usage
