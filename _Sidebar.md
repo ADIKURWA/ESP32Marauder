@@ -20,6 +20,7 @@
 - [Status Bar](status-bar)
 - [CLI](cli)
   - [Usage](cli-usage)
+    - [attack](attack)
     - [channel](channel)
     - [clearap](clearap)
     - [listap](listap)
