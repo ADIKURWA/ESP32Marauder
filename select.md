@@ -1,5 +1,5 @@
 # select
-Select or deselect access points and/or stations for targeted attacks. You must provide a comma separated list of indices of the desired access points and/or stations from [listap](listap).  
+Select or deselect access points and/or stations for targeted attacks. You must provide a comma separated list of indices of the desired access points and/or stations from [list](list).  
 Any specified indices which were **NOT** already `selected` will become `selected`. Any specified indices which were already `selected` will no longer be `selected`
 
 ## Usage
