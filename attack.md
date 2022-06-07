@@ -7,7 +7,7 @@ Transmit WiFi frames with specific target or broadcast
 #### Arguments
 | Argument | Required/Optional | Description |
 | -------- | ----------------- | ----------- |
-| `-t` | Required | Specify the attack type: [`beacon`](#beacon), [`deauth`](#deauth), [`probe`](#probe)|
+| `-t` | Required | Specify the attack type: [`beacon`](#beacon), [`deauth`](#deauth), [`probe`](#probe), [`rickroll`](rickroll)|
 | `-l/-r` | Required (for [`beacon`](#beacon)) | Specify "list" attack or "random" attack for beacon spam |
 
 ## beacon
@@ -22,3 +22,6 @@ Once a proper target list has been built, a deauth flood can be executed. The at
 Before executing probe request flood attack on the ESP32 Marauder, you must build a list of available access points and select which access points to target. See [scanap](scanap) and [select](select) for more details on how to build a target list.
 
 Once a proper target list has been built, a probe request flood can be executed. The attack can be ended with [`stopscan`](stopscan). For more information on probe request attacks, see [Probe Requests](https://blog.spacehuhn.com/probe-request/).
+
+## rickroll
+You'll just have to find out
