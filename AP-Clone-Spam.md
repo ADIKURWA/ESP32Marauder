@@ -1,0 +1,2 @@
+# AP Clone Spam
+Spam copies of selected access points from [`Scan APs`](scan-aps). Before this attack can be used, you must build a target list of access points with [`Scan APs`](scan-aps) and select specific targets using [`Select APs`](select-aps). Once you start the attack, you should notice multiple instances of the selected AP present while listing the available networks in the area. This attack can be stopped by touching the screen once.
