@@ -7,11 +7,13 @@ Transmit WiFi frames with specific target or broadcast
 #### Arguments
 | Argument | Required/Optional | Description |
 | -------- | ----------------- | ----------- |
-| `-t` | Required | Specify the attack type: [`beacon`](#beacon), [`deauth`](#deauth), [`probe`](#probe), [`rickroll`](rickroll)|
-| `-l/-r` | Required (for [`beacon`](#beacon)) | Specify "list" attack or "random" attack for beacon spam |
+| `-t` | Required | Specify the attack type: [`beacon`](#beacon), [`deauth`](#deauth), [`probe`](#probe), [`rickroll`](#rickroll)|
+| `-l/-r/-a` | Required (for [`beacon`](#beacon)) | Specify "list", "random", or "ap" attack for beacon spam |
 
 ## beacon
-Before executing a beacon spam attack on the ESP32 Marauder, you must build a list of SSIDs using [`ssid`](ssid). Once you have a list of SSIDs that can be used for a beacon spam attack, the attack can be executed and all SSIDs in your list will be transmitted as beacons. The attack can be ended with [`stopscan`](stopscan).
+Before executing a beacon spam `list` attack on the ESP32 Marauder, you must build a list of SSIDs using [`ssid`](ssid). Once you have a list of SSIDs that can be used for a beacon spam attack, the attack can be executed and all SSIDs in your list will be transmitted as beacons. The attack can be ended with [`stopscan`](stopscan).
+#### Beacon Spam AP
+Beacon Spam AP spams beacon frames that copy a known access point scanned by [`scanap`](scanap). Before you can execute this attack, you must use [`scanap`](scanap) to build a target list and [`select`](select) to pick specific APs to copy.
 
 ## deauth
 Before executing deauth flood attack on the ESP32 Marauder, you must build a list of available access points and select which access points to target. See [scanap](scanap) and [select](select) for more details on how to build a target list.
