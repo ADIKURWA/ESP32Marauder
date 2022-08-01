@@ -8,7 +8,7 @@ Any specified indices which were **NOT** already `selected` will become `selecte
 #### Arguments
 | Argument | Required/Optional | Description |
 | -------- | ----------------- | ----------- |
-| `-a <CSL of target indices>` | Optional | The index numbers of the access points shown with [list](list) |
+| `-a <CSL of target indices>/all` | Optional | The index numbers of the access points shown with [list](list) |
 | `-s <CSL of target indices>` | Optional | The index numbers of the stations shown with (TBD) |
 
 #### Example
