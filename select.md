@@ -11,6 +11,7 @@ Any specified indices which were **NOT** already `selected` will become `selecte
 | `-a <CSL of target indices>/all` | Optional | The index numbers of the access points shown with [list](list) |
 | `-s <CSL of target indices>` | Optional | The index numbers of the stations shown with (TBD) |
 
-#### Example
-`select -a 1,3,5`
+#### Examples
+`select -a 1,3,5`: Selects APs at indices 1, 3, and 5  
+`select -a all`: Selects all APs in the list 
 
