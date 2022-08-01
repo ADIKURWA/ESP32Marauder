@@ -18,5 +18,17 @@ Marauder can be used via its [command-line interface](cli) supplemented by the F
 ### Untethered Usage
 If you would like to use the Flipper Zero and it's WiFi dev board flashed with Marauder as a standalone unit without a PC or mobile phone attached, install [flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases/latest) by [RogueMaster](https://github.com/RogueMaster) on your Flipper Zero. It features an interface directly available on the Flipper Zero menu which allows full control of the Marauder firmware running on the dev board.
 
+### SD Card Modification
+A MicroSD card can be attached to the Flipper Zero WiFi Dev Board SPI via a [MicroSD Breakout](https://www.sparkfun.com/products/544). Attaching a microSD card to the Flipper Zero WiFi Dev Board will allow the Marauder firmware to save captured WiFi traffic to storage in the form of PCAP files to be exported for analysis later. Refer to the following table for the required solder connections
+
+| MicroSD Breakout | Flipper Zero WiFi Dev Board |
+| ---------------- | --------------------------- |
+| VCC              | 3V3                         |
+| GND              | GND                         |
+| DI (MOSI)        | IO35                        |
+| DO (MISO)        | IO37                        |
+| SCK              | IO36                        |
+| CS               | IO10                        |
+
 ## YouTube Video
 [![Tutorial](https://img.youtube.com/vi/_YLTpNo5xa0/0.jpg)](https://www.youtube.com/watch?v=_YLTpNo5xa0)
