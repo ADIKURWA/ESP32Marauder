@@ -28,6 +28,7 @@
     - [reboot](reboot-cmd)
     - [scanap](scanap)
     - [select](select)
+    - [settings](settings)
     - [sniffbeacon](sniffbeacon)
     - [sniffdeauth](sniffdeauth)
     - [sniffesp](sniffesp)
