@@ -28,7 +28,7 @@ It is possible to get the Marauder firmware to work on many other ESP32 developm
 If the screen does not work after updating the firmware, it is possible you used the incorrect firmware update file. If you marauder looks like [this](https://github.com/justcallmekoko/ESP32Marauder/raw/master/pictures/esp32marauder_thumbnail.jpg), then you must use the `old_hardware` update file. If your marauder looks like [this](https://github.com/justcallmekoko/ESP32Marauder/raw/master/pictures/IMG_0426.JPG?raw=true), then you must use the `new_hardware` update file. You can still update your marauder like normal, but thouch coordinates of your marauder are inverted. Imagine the marauder screen being upside down while your try to navigate it. Once you update with the proper firmware, it will return to normal. Following the instructions for [Update Firmware](update-firmware)
 
 ## My SD card is not detected by the Marauder
-Ensure the size of the SD card you are using is less than or equal to 32GB. If this is the case, try using an SD card by Sandisk. Some other brands of SD card such as Samsung cause the Marauder not to boot properly or not initialize the SD card.
+Ensure the size of the SD card you are using is less than or equal to 32GB. If this is the case, try using an SD card by Sandisk. Some other brands of SD card such as Samsung cause the Marauder not to boot properly or not initialize the SD card. You will also want to make sure the SD card is initialized in Fat32
 
 ## I tried to compile the firmware and it complained about LVGL
 Make sure you have installed [`lv-arduino`](https://github.com/lvgl/lv_arduino) and not [`lvgl`](https://github.com/lvgl/lvgl) in your Arduino IDE
