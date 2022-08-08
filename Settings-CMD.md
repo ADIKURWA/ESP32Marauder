@@ -11,6 +11,6 @@ Display and manage settings for the ESP32 Marauder firmware.
 | `-r` | Optional | Restore settings to default |
 
 #### Examples
-`select`: Displays settings available for management  
-`select -s ForcePMKID enable`: Enables deauthentication packets while sniffing for PMKID  
-`select -r`: Restores all settings to their default values
+`settings`: Displays settings available for management  
+`settings -s ForcePMKID enable`: Enables deauthentication packets while sniffing for PMKID  
+`settings -r`: Restores all settings to their default values
