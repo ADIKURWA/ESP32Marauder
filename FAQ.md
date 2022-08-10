@@ -8,6 +8,7 @@
 - [I updated the Marauder and now the touch screen does not work](#i-updated-the-marauder-and-now-the-touch-screen-does-not-work)
 - [My SD card is not detected by the Marauder](#my-sd-card-is-not-detected-by-the-marauder)
 - [I tried to compile the firmware and it complained about LVGL](#i-tried-to-compile-the-firmware-and-it-complained-about-lvgl)
+- [I can't connect to MarauderOTA when doing the MarauderOTA installation method](#i-cant-connect-to-marauderota-when-doing-the-marauderota-installation-method)
 
 ## I bought a Marauder and the screen is just black when I turn it on
 There have been some rare cases where the Marauder firmware was wiped from flash during transit through USPS. I am not sure what is causing this but the solution is to compile the firmware from source and upload using the Arduino IDE. Follow the instructions under [Installing Firmware](installing-firmware).
@@ -32,3 +33,6 @@ Ensure the size of the SD card you are using is less than or equal to 32GB. If t
 
 ## I tried to compile the firmware and it complained about LVGL
 Make sure you have installed [`lv-arduino`](https://github.com/lvgl/lv_arduino) and not [`lvgl`](https://github.com/lvgl/lvgl) in your Arduino IDE
+
+## I can't connect to MarauderOTA when doing the MarauderOTA installation method
+Before you upload the MarauderOTA firmware to your ESP32, try changing the SSID and Password in the code to something different. Once you change it, upload the code and try the OTA update method again.
