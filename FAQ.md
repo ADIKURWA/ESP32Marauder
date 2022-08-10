@@ -35,4 +35,4 @@ Ensure the size of the SD card you are using is less than or equal to 32GB. If t
 Make sure you have installed [`lv-arduino`](https://github.com/lvgl/lv_arduino) and not [`lvgl`](https://github.com/lvgl/lvgl) in your Arduino IDE
 
 ## I can't connect to MarauderOTA when doing the MarauderOTA installation method
-Before you upload the MarauderOTA firmware to your ESP32, try changing the SSID and Password in the code to something different. Once you change it, upload the code and try the OTA update method again.
+Before you upload the MarauderOTA firmware to your ESP32, try changing the SSID and Password in the code to something different. Once you change it, upload the code and try the OTA update method again. Also make sure you refresh the page immediately after coming to the MarauderOTA update screen
