@@ -12,6 +12,9 @@ The Flipper Zero has the option to attach different peripherals to it's GPIO hea
 Once you install the Marauder firmware on the WiFi dev board, you can connect the dev board to the Flipper Zero GPIO header and connect the flipper to your PC or Android phone via USB cable.  
 On the Flipper Zero, navigate to `GPIO`>`USB-UART Bridge`. I keep my Bridge configured to use USB channel 0
 
+## Having Issues?
+If you are having issues with your Marauder installation either with the install process or with the firmware usage, be sure to check if your issue has already been solved in [FAQ](../faq). If not, feel free to join my [Discord](https://discord.gg/invite/w5JmasxvKA) to request help from the community or submit an [issue](https://github.com/justcallmekoko/ESP32Marauder/issues)
+
 ### Tethered Usage
 Marauder can be used via its [command-line interface](cli) supplemented by the Flipper Zero USB-to-UART bridge and a PC/Laptop. The goal is to eventually get the Flipper Zero to offer a bluetooth connection to facilitate a Serial-over-Bluetooth bridge to the WiFi Dev Board so everything can be done over mobile phone.
 
