@@ -5,7 +5,7 @@
 - [Troubleshooting](troubleshooting)
 - Setup
   - [Arduino IDE Setup](arduino-ide-setup)
-  - Platforms
+  - DIY Platforms
     - [ESP32 Marauder Kit](esp32-marauder-kit)
     - [Flipper Zero](flipper-zero)
   - Installing Firmware
