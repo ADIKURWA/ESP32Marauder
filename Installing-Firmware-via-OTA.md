@@ -17,6 +17,7 @@ The original ESP32 Marauder firmware uses many libraries and a few IDF modificat
       - Marauder Flipper (Flipper Zero WiFi Dev Board)
     - If you do not see this board option, ensure your Arduino IDE is on the latest version
 5. For partition scheme, select `Minimal SPIFFS (Large APPS with OTA)`
+    - For **Marauder Flipper**, select 16MB for `Flash Size`
 6. Copy the ESP32 Marauder OTA Upload firmware source from [here](https://raw.githubusercontent.com/justcallmekoko/ESP32Marauder/master/MarauderOTA/MarauderOTA.ino) into your Arduino IDE window
 7. Click the Upload button in the top left corner of the Arduino IDE and let the code compile and upload to the ESP32 Marauder
 8. Download the [latest release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) of the ESP32 Marauder firmware
@@ -41,3 +42,4 @@ The original ESP32 Marauder firmware uses many libraries and a few IDF modificat
 14. Browse for the firmware file you downloaded
 15. Click the `Update` button
     - The ESP32 Marauder will automatically reboot once the update process is complete
+16. Even though the device automatically reboots, hit the physical RESET button to force the device to hard reboot
