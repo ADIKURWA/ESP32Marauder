@@ -19,8 +19,7 @@ Catch my live stream on [Twitch](https://www.twitch.tv/willstunforfood) where I 
 
 ## Built on [arduino-esp32 v2.0.0-rc1 (ESP-IDF v4.4)](https://github.com/espressif/arduino-esp32/releases/tag/2.0.0-rc1)
 
-[![HitCount](http://hits.dwyl.io/justcallmekoko/badges.svg)](http://hits.dwyl.io/justcallmekoko/badges)
-[![Build Status](https://travis-ci.com/justcallmekoko/ESP32Marauder.svg?branch=master)](https://travis-ci.com/justcallmekoko/ESP32Marauder)
+[![Build and Push](https://github.com/justcallmekoko/ESP32Marauder/actions/workflows/build_push.yml/badge.svg)](https://github.com/justcallmekoko/ESP32Marauder/actions/workflows/build_push.yml)
 
 Sometimes you just gotta do what you gotta do. Am I right, ladies?
 The ESP32 Marauder is a suite of WiFi/Bluetooth offensive and defensive tools created for the ESP32 and was originally inspired by [Spacehuhn's](https://github.com/Spacehuhn) [esp8266_deauther](https://github.com/Spacehuhn/esp8366_deauther) project. The tool itself serves as a portable device used to test and analyze WiFi and Bluetooth devices. Use this tool and its firmware with caution as the use of some of its capabilities without explicit consent from the target owner is unlawful in most countries. For more information about this project and how it's assembled, follow the video link below. Track features and issues [here](https://github.com/justcallmekoko/ESP32Marauder/issues). Check out [#esp32marauder](https://www.instagram.com/explore/tags/esp32marauder/) on Instagram.  
