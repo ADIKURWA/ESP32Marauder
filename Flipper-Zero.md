@@ -2,13 +2,13 @@
 
 [![Build and Push](https://github.com/justcallmekoko/ESP32Marauder/actions/workflows/build_push.yml/badge.svg)](https://github.com/justcallmekoko/ESP32Marauder/actions/workflows/build_push.yml)
 ### Summary
-The Flipper Zero has the option to attach different peripherals to it's GPIO headers. One such option is the [ESP32-S2 Development Board](https://shop.flipperzero.one/products/wifi-devboard) which provides the Flipper Zero with the hardware required for WiFi capabilities. The Marauder firmware can be installed on the ESP32-S2 either via prebuilt firmware binary uploaded [over-the-air(OTA)](installing-firmware-via-ota) or via [configured source build and upload](installing-firmware-from-source). For either process, it will be assumed the connection between your PC and your WiFi dev board is "direct" i.e. you are not using the Flipper Zero USB-to-UART bridge. Once the install is complete however, you will be required to use the Flipper Zero USB-to-UART bridge.
+The Flipper Zero has the option to attach different peripherals to it's GPIO headers. One such option is the [ESP32-S2 Development Board](https://shop.flipperzero.one/products/wifi-devboard) which provides the Flipper Zero with the hardware required for WiFi capabilities. The Marauder firmware can be installed on the ESP32-S2 either via prebuilt firmware binary uploaded [over-the-air(OTA)](installing-firmware-via-ota) or via [configured source build and upload](installing-firmware-from-source). For either process, it will be assumed the connection between your PC and your WiFi dev board is "direct" i.e. you are not using the Flipper Zero USB-to-UART bridge. Once the install is complete however, you will be required to use the Flipper Zero USB-to-UART bridge. It is recommended to use the **Flasher Script** option if you choose "Blue Pill" as this is the quickest and most direct method for installing the Marauder firmware on your WiFi Dev Board
 
 #### Firmware install options
 | Blue pill | Red Pill |
 | --------- | -------- |
 | Really easy. Nothing to change, but you don't get any customization (which is fine). | This pill is the size of a large pumpkin and it goes in your ass. Install libraries, build from source, know everything |
-| [Marauder OTA](installing-firmware-via-ota) | [Build from source](installing-firmware-from-source)
+| [Flasher Script](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher) or [Marauder OTA](installing-firmware-via-ota) | [Build from source](installing-firmware-from-source)
 
 Once you install the Marauder firmware on the WiFi dev board, you can connect the dev board to the Flipper Zero GPIO header and connect the flipper to your PC or Android phone via USB cable.  
 On the Flipper Zero, navigate to `GPIO`>`USB-UART Bridge`. I keep my Bridge configured to use USB channel 0
