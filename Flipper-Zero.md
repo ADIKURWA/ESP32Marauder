@@ -53,7 +53,7 @@ A MicroSD card can be attached to the Flipper Zero WiFi Dev Board SPI via a [Mic
 | CS               | IO10                        |
 
 Once all of the solder connections have been made, a piece of double-sided tape can be used to fix the MicroSD Breakout Board to the back of the WiFi Development Board.
-<p align="left"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_5876%20-%20Copy.jpg?raw=true" width="500"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_5877%20-%20Copy.jpg?raw=true" width="500"></p><br>
+<p align="left"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_5876%20-%20Copy.jpg?raw=true" width="300"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_5877%20-%20Copy.jpg?raw=true" width="300"></p><br>
 <p align="left"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_5879%20-%20Copy.jpg?raw=true" width="500"></p>
 
 ## YouTube Video
