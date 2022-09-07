@@ -19,8 +19,8 @@ It is recommended to use the **Flasher Script** option if you choose "Blue Pill"
 
 ### WiFi Dev Board Enclosure
 If you do not currently own a 3D printer and would like to purchase an enclosure for your WiFi Dev Board, I am currently selling them on Tindie with multiple color and material options. If you are interested, check out the shop [here](https://www.tindie.com/products/justcallmekoko/flipper-zero-wifi-dev-board-enclosure/).
-<p align="left"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/8NU10HwLlY6YAxBMm5zmX4wplCM=/p/fit-in/653x435/filters:fill(fff)/i/663561/products/2022-06-22T17%3A49%3A07.471Z-IMG_2245.JPG?1655894975" width="500"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/nlp5ZR3FJufeel8-LY3qtmIj9Ps=/p/fit-in/1370x912/filters:fill(fff)/i/663561/products/2022-06-22T17%3A49%3A07.471Z-IMG_2242.JPG?1655894975" width="500"></p><br>
-<p align="left"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/JFiK85Igb1EH4Sw9ACKfrHPCP8I=/p/fit-in/1370x912/filters:fill(fff)/i/663561/products/2022-08-23T17%3A05%3A36.894Z-IMG_5955%20-%20Copy.jpg?1661249267" width="500"></p>
+<p align="left"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/8NU10HwLlY6YAxBMm5zmX4wplCM=/p/fit-in/653x435/filters:fill(fff)/i/663561/products/2022-06-22T17%3A49%3A07.471Z-IMG_2245.JPG?1655894975" width="300"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/nlp5ZR3FJufeel8-LY3qtmIj9Ps=/p/fit-in/1370x912/filters:fill(fff)/i/663561/products/2022-06-22T17%3A49%3A07.471Z-IMG_2242.JPG?1655894975" width="300"></p><br>
+<p align="left"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/JFiK85Igb1EH4Sw9ACKfrHPCP8I=/p/fit-in/1370x912/filters:fill(fff)/i/663561/products/2022-08-23T17%3A05%3A36.894Z-IMG_5955%20-%20Copy.jpg?1661249267" width="300"></p>
 
 ### Firmware install options
 | Blue pill | Red Pill |
