@@ -1,12 +1,28 @@
 # Flipper Zero WiFi Dev Board with Marauder
 
 [![Build and Push](https://github.com/justcallmekoko/ESP32Marauder/actions/workflows/build_push.yml/badge.svg)](https://github.com/justcallmekoko/ESP32Marauder/actions/workflows/build_push.yml)
+
+## Table of Consonants
+- [Summary](#summary)
+- [WiFi Dev Board Enclosure](#wifi-dev-board-enclosure)
+- [Firmware Install Options](#firmware-install-options)
+- [Having Issues?](#having-issues)
+- [Tethered Usage](#tethered-usage)
+- [Untethered Usage](#untethered-usage)
+- [SD Card Modification](#sd-card-modification)
+- [YouTube Video](#youtube-video)
+
 ### Summary
 The Flipper Zero has the option to attach different peripherals to it's GPIO headers. One such option is the [ESP32-S2 Development Board](https://shop.flipperzero.one/products/wifi-devboard) which provides the Flipper Zero with the hardware required for WiFi capabilities. The Marauder firmware can be installed on the ESP32-S2 either via prebuilt firmware binary uploaded [over-the-air(OTA)](installing-firmware-via-ota) or via [configured source build and upload](installing-firmware-from-source). For either process, it will be assumed the connection between your PC and your WiFi dev board is "direct" i.e. you are not using the Flipper Zero USB-to-UART bridge. Once the install is complete however, you will be required to use the Flipper Zero USB-to-UART bridge.   
 
 It is recommended to use the **Flasher Script** option if you choose "Blue Pill" as this is the quickest and most direct method for installing the Marauder firmware on your WiFi Dev Board
 
-#### Firmware install options
+### WiFi Dev Board Enclosure
+If you do not currently own a 3D printer and would like to purchase an enclosure for your WiFi Dev Board, I am currently selling them on Tindie with multiple color and material options. If you are interested, check out the shop [here](https://www.tindie.com/products/justcallmekoko/flipper-zero-wifi-dev-board-enclosure/).
+<p align="left"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/8NU10HwLlY6YAxBMm5zmX4wplCM=/p/fit-in/653x435/filters:fill(fff)/i/663561/products/2022-06-22T17%3A49%3A07.471Z-IMG_2245.JPG?1655894975" width="500"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/nlp5ZR3FJufeel8-LY3qtmIj9Ps=/p/fit-in/1370x912/filters:fill(fff)/i/663561/products/2022-06-22T17%3A49%3A07.471Z-IMG_2242.JPG?1655894975" width="500"></p><br>
+<p align="left"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/JFiK85Igb1EH4Sw9ACKfrHPCP8I=/p/fit-in/1370x912/filters:fill(fff)/i/663561/products/2022-08-23T17%3A05%3A36.894Z-IMG_5955%20-%20Copy.jpg?1661249267" width="500"></p>
+
+### Firmware install options
 | Blue pill | Red Pill |
 | --------- | -------- |
 | Really easy. Nothing to change, but you don't get any customization (which is fine). | This pill is the size of a large pumpkin and it goes in your ass. Install libraries, build from source, know everything |
