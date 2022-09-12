@@ -11,6 +11,7 @@ If you are willing to support me for free, check out the following links:
 - [Instagram](https://www.instagram.com/just.call.me.koko/?hl=en)
 - [Twitch](https://twitch.tv/willstunforfood)
 - [YouTube](https://www.youtube.com/justcallmekoko)
+- [Patreon](https://www.patreon.com/justcallmekoko)
 
 ## Store
 
