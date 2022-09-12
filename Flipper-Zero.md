@@ -10,6 +10,7 @@
 - [Tethered Usage](#tethered-usage)
 - [Untethered Usage](#untethered-usage)
 - [SD Card Modification](#sd-card-modification)
+- [Support](#support)
 - [YouTube Video](#youtube-video)
 
 ### Summary
@@ -55,6 +56,9 @@ A MicroSD card can be attached to the Flipper Zero WiFi Dev Board SPI via a [Mic
 Once all of the solder connections have been made, a piece of double-sided tape can be used to fix the MicroSD Breakout Board to the back of the WiFi Development Board.
 <p align="left"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_5876%20-%20Copy.jpg?raw=true" width="300"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_5877%20-%20Copy.jpg?raw=true" width="300"></p><br>
 <p align="left"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_5879%20-%20Copy.jpg?raw=true" width="500"></p>
+
+## Support
+If you are looking to support me and my pursuit of shitty projects, consider heading over to my [Patreon](https://www.patreon.com/justcallmekoko). It aint much and it's not very big around, but it'll get the job done.
 
 ## YouTube Video
 The following video describes and demonstrates the installation and usage of the Marauder firmware on the Flipper Zero WiFi Dev Board.
