@@ -42,4 +42,5 @@ The original ESP32 Marauder firmware uses many libraries and a few IDF modificat
 14. Browse for the firmware file you downloaded
 15. Click the `Update` button
     - The ESP32 Marauder will automatically reboot once the update process is complete
+    - **Wait ~60sec before restarting or removing power from the dev board**
 16. Even though the device automatically reboots, press the physical RESET button before disconnecting power to force the device to hard reboot
