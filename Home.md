@@ -6,7 +6,7 @@ I hope you enjoy the project and find this documentation helpful.
 If you would like to chat with me and the rest of the community directly,  
 head over to my [discord](https://discord.gg/invite/w5JmasxvKA).
 
-If you are willing to support me for free, check out the following links: 
+If you are willing to show a little support, check out the following links: 
 
 - [Instagram](https://www.instagram.com/just.call.me.koko/?hl=en)
 - [Twitch](https://twitch.tv/willstunforfood)
