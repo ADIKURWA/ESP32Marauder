@@ -6,6 +6,7 @@
 - [Summary](#summary)
 - [WiFi Dev Board Enclosure](#wifi-dev-board-enclosure)
 - [Firmware Install Options](#firmware-install-options)
+  - [Video Guide](#video-guide)
 - [Having Issues?](#having-issues)
 - [Tethered Usage](#tethered-usage)
 - [Untethered Usage](#untethered-usage)
@@ -28,6 +29,11 @@ If you do not currently own a 3D printer and would like to purchase an enclosure
 | --------- | -------- |
 | Really easy. Nothing to change, but you don't get any customization (which is fine). | This pill is the size of a large pumpkin and it goes in your ass. Install libraries, build from source, know everything |
 | [FZ Marauder Flasher](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher), [FZEasyMarauderFlash](https://github.com/SkeletonMan03/FZEasyMarauderFlash), or [Marauder OTA](installing-firmware-via-ota) | [Build from source](installing-firmware-from-source)
+
+#### Video Guide
+This video will provide instructions for using the flasher script. This is the quickest way to get Marauder running on your device
+[![Tutorial](https://img.youtube.com/vi/um_acrDaBK4/0.jpg)](https://www.youtube.com/watch?v=um_acrDaBK4)
+
 
 Once you install the Marauder firmware on the WiFi dev board, you can connect the dev board to the Flipper Zero GPIO header and connect the flipper to your PC or Android phone via USB cable.  
 On the Flipper Zero, navigate to `GPIO`>`USB-UART Bridge`. I keep my Bridge configured to use USB channel 0
