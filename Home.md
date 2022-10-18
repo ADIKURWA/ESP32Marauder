@@ -4,7 +4,7 @@ I hope you enjoy the project and find this documentation helpful.
 ## Socials 
 
 If you would like to chat with me and the rest of the community directly,  
-head over to my [discord](https://discord.gg/invite/w5JmasxvKA).
+head over to my [discord](https://discord.com/servers/willstunforfood-776211399918878760).  
 
 If you are willing to show a little support, check out the following links: 
 
