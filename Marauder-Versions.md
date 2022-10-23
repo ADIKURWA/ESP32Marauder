@@ -1,7 +1,7 @@
 # Marauder Versions
 There are several different versions of Marauder I have developed. Each Marauder has its own range of capabilities, some better than others. The following list describes each official version of the ESP32 Marauder.  
 
-## ESP32 Marauder
+## ESP32 Marauder v4 (OG)
 This is the original ESP32 Marauder. The first Marauder which was available for purchase on Tindie. This Marauder design has undergone several changes including:  
 - Resistor network implementation
 - IP5306 to IP5306 I2C transition
