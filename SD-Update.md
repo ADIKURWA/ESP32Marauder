@@ -18,5 +18,6 @@
 3. Rename the bin file on the SD card to `update.bin`
 4. With Marauder powered off, insert the SD card into Marauder
 5. Power Marauder on and navigate to `Device`>`Update Firmware`>`SD Update`
+    - `update -s` if you are using CLI
 6. Click `Yes` to confirm the update
     - Marauder will automatically reboot once the update has been applied
