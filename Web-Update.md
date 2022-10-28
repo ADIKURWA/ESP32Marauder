@@ -14,6 +14,7 @@
 | Flipper Zero | `_flipper.bin` |
 
 2. With Marauder powered on, navigate to `Device`>`Update Firmware`>`Web Update`
+    - `update -w` if you are using CLI
     - Marauder will display details on screen about the status of the update
 3. Connect to the MarauderOTA WiFi network from your computer
     - password: justcallmekoko
