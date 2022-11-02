@@ -70,5 +70,5 @@ Once all of the solder connections have been made, a piece of double-sided tape 
 If you are looking to support me and my pursuit of shitty projects, consider heading over to my [Patreon](https://www.patreon.com/justcallmekoko). It aint much and it's not very big around, but it'll get the job done.
 
 ## YouTube Video
-The following video describes and demonstrates the installation and usage of the Marauder firmware on the Flipper Zero WiFi Dev Board.
+The following video describes and demonstrates the installation and usage of the Marauder firmware on the Flipper Zero WiFi Dev Board.  
 [![Tutorial](https://img.youtube.com/vi/_YLTpNo5xa0/0.jpg)](https://www.youtube.com/watch?v=_YLTpNo5xa0)
