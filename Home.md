@@ -4,7 +4,9 @@ I hope you enjoy the project and find this documentation helpful.
 ## Socials 
 
 If you would like to chat with me and the rest of the community directly,  
-head over to my [discord](https://discord.com/servers/willstunforfood-776211399918878760).  
+head over to the discord.  
+
+<a href="https://discord.com/servers/willstunforfood-776211399918878760"><img src="https://discordapp.com/api/guilds/776211399918878760/widget.png?style=banner4" alt="JustCallMeKoko Discord"></a>
 
 If you are willing to show a little support, check out the following links: 
 
