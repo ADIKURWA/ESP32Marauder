@@ -2,6 +2,9 @@
 
 [![Build and Push](https://github.com/justcallmekoko/ESP32Marauder/actions/workflows/build_push.yml/badge.svg)](https://github.com/justcallmekoko/ESP32Marauder/actions/workflows/build_push.yml)
 
+If at any moment you need further guidance, consider joining the discord server.  
+<a href="https://discord.com/servers/willstunforfood-776211399918878760"><img src="https://discordapp.com/api/guilds/776211399918878760/widget.png?style=banner4" alt="JustCallMeKoko Discord"></a>
+
 ## Table of Consonants
 - [Summary](#summary)
 - [WiFi Dev Board Enclosure](#wifi-dev-board-enclosure)
