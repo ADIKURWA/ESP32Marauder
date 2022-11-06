@@ -38,6 +38,7 @@
     - [ssid](ssid)
     - [stopscan](stopscan)
     - [update](update)
+  - [Workflow Examples](workflow-examples)
 - [Applications](applications)
   - [WiFi](wifi)
     - [WiFi Sniffers](wifi-sniffers)
