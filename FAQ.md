@@ -39,4 +39,4 @@ Make sure you have installed [`lv-arduino`](https://github.com/lvgl/lv_arduino) 
 Before you upload the MarauderOTA firmware to your ESP32, try changing the SSID and Password in the code to something different. Once you change it, upload the code and try the OTA update method again. Also make sure you refresh the page immediately after coming to the MarauderOTA update screen.
 
 ## My Flipper dev board reverts back to MarauderOTA after I disconnect it from power
-Ensure you follow the MarauderOTA instructions exactly as they are written. Take great care to follow steps 5, 13, and 16.
+Ensure you follow the MarauderOTA instructions exactly as they are written. Take great care to follow steps 5, 13, and 16. If that doesn't work, consider using one of the other [firmware install options](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero#firmware-install-options)
