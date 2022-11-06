@@ -39,6 +39,7 @@
     - [stopscan](stopscan)
     - [update](update)
   - [Workflow Examples](workflow-examples)
+    - [Random Beacon Spam workflow](random-beacon-spam-workflow)
 - [Applications](applications)
   - [WiFi](wifi)
     - [WiFi Sniffers](wifi-sniffers)
