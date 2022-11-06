@@ -10,7 +10,7 @@
 - [I tried to compile the firmware and it complained about LVGL](#i-tried-to-compile-the-firmware-and-it-complained-about-lvgl)
 - [I can't connect to MarauderOTA when doing the MarauderOTA installation method](#i-cant-connect-to-marauderota-when-doing-the-marauderota-installation-method)
 - [My Flipper dev board reverts back to MarauderOTA after I disconnect it from power](#my-flipper-dev-board-reverts-back-to-marauderota-after-i-disconnect-it-from-power)
-- [How do I use different attacks and scans on commandline](how-do-i-use-different-attacks-and-scans-on-commandline)
+- [How do I use different attacks and scans on commandline](#how-do-i-use-different-attacks-and-scans-on-commandline)
 
 ## I bought a Marauder and the screen is just black when I turn it on
 There have been some rare cases where the Marauder firmware was wiped from flash during transit through USPS. I am not sure what is causing this but the solution is to compile the firmware from source and upload using the Arduino IDE. Follow the instructions under [Installing Firmware](installing-firmware).
