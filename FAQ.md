@@ -1,5 +1,7 @@
 # Frequently Asked Questions
 
+- [What is Marauder](#what-is-marauder)
+- [Can I build my own Marauder](#can-i-build-my-own-marauder)
 - [I bought a Marauder and the screen is just black when I turn it on](#i-bought-a-marauder-and-the-screen-is-just-black-when-i-turn-it-on)
 - [class TFT_eSPI has no member named setTouch or getTouch](#class-tft_espi-has-no-member-named-settouch-or-gettouch)
 - [How do I attach the screen to the ESP32](#how-do-i-attach-the-screen-to-the-esp32)
@@ -11,6 +13,12 @@
 - [I can't connect to MarauderOTA when doing the MarauderOTA installation method](#i-cant-connect-to-marauderota-when-doing-the-marauderota-installation-method)
 - [My Flipper dev board reverts back to MarauderOTA after I disconnect it from power](#my-flipper-dev-board-reverts-back-to-marauderota-after-i-disconnect-it-from-power)
 - [How do I use different attacks and scans on commandline](#how-do-i-use-different-attacks-and-scans-on-commandline)
+
+## What is Marauder
+The ESP32 Marauder is a WiFi and Bluetooth analysis tool. It hosts a suite of capabilities for frame capture, device enumeration, and frame transmission. It is intended to serve as a portable device to stand in for physically larger traffic capturing tools and to provide captured data for post-op analysis.
+
+## Can I build my own Marauder
+Yes, you can build your own Marauder. All you need is an ESP32 development board and a 2.8" ILI9341 TFT touch screen.
 
 ## I bought a Marauder and the screen is just black when I turn it on
 There have been some rare cases where the Marauder firmware was wiped from flash during transit through USPS. I am not sure what is causing this but the solution is to compile the firmware from source and upload using the Arduino IDE. Follow the instructions under [Installing Firmware](installing-firmware).
