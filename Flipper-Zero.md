@@ -45,7 +45,14 @@ On the Flipper Zero, navigate to `GPIO`>`USB-UART Bridge`. I keep my Bridge conf
 If you are having issues with your Marauder installation either with the install process or with the firmware usage, be sure to check if your issue has already been solved in [FAQ](../faq). If not, feel free to join my [Discord](https://discord.gg/invite/w5JmasxvKA) to request help from the community or submit an [issue](https://github.com/justcallmekoko/ESP32Marauder/issues)
 
 ### Tethered Usage
-Marauder can be used via its [command-line interface](cli) supplemented by the Flipper Zero USB-to-UART bridge and a PC/Laptop. The goal is to eventually get the Flipper Zero to offer a bluetooth connection to facilitate a Serial-over-Bluetooth bridge to the WiFi Dev Board so everything can be done over mobile phone.
+Marauder can be used via its [command-line interface](cli) supplemented by the Flipper Zero USB-to-UART bridge and a PC/Laptop. The goal is to eventually get the Flipper Zero to offer a bluetooth connection to facilitate a Serial-over-Bluetooth bridge to the WiFi Dev Board so everything can be done over mobile phone.  
+For tethered use, follow these steps...
+1. Connect your dev board to your flipper zero and power it on
+2. Connect your flipper zero to your PC/Mobile phone via USB-C
+3. On your flipper, open the USB-UART Bridge via the GPIO menu
+4. Configure the bridge to use USB channel 0 with baud 115200
+5. On your PC or mobile device, open a serial connection to the Flipper Zero with baud 115200
+    - Be sure to check what COM port your flipper zero is on so you know what to connect to
 
 ### Untethered Usage
 If you would like to use the Flipper Zero and it's WiFi dev board flashed with Marauder as a standalone unit without a PC or mobile phone attached, install [flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases/latest) by [RogueMaster](https://github.com/RogueMaster) on your Flipper Zero. It features an interface directly available on the Flipper Zero menu which allows full control of the Marauder firmware running on the dev board.
