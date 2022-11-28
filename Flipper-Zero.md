@@ -16,6 +16,7 @@ If at any moment you need further guidance, consider joining the discord server.
 - [SD Card Modification](#sd-card-modification)
 - [Patreon](#patreon)
 - [YouTube Video](#youtube-video)
+- [More Videos](#more-videos)
 
 ### Summary
 The Flipper Zero has the option to attach different peripherals to it's GPIO headers. One such option is the [ESP32-S2 Development Board](https://shop.flipperzero.one/products/wifi-devboard) which provides the Flipper Zero with the hardware required for WiFi capabilities. The Marauder firmware can be installed on the ESP32-S2 either via prebuilt firmware binary uploaded [over-the-air(OTA)](installing-firmware-via-ota) or via [configured source build and upload](installing-firmware-from-source). For either process, it will be assumed the connection between your PC and your WiFi dev board is "direct" i.e. you are not using the Flipper Zero USB-to-UART bridge. Once the install is complete however, you will be required to use the Flipper Zero USB-to-UART bridge.   
@@ -79,3 +80,8 @@ If you are looking to support me and my pursuit of shitty projects, consider hea
 ## YouTube Video
 The following video describes and demonstrates the installation and usage of the Marauder firmware on the Flipper Zero WiFi Dev Board.  
 [![Tutorial](https://img.youtube.com/vi/_YLTpNo5xa0/0.jpg)](https://www.youtube.com/watch?v=_YLTpNo5xa0)
+
+## More videos
+[![More Videos](https://img.youtube.com/vi/1ftcESq-pNY/0.jpg)](https://www.youtube.com/watch?v=1ftcESq-pNY)
+[![More Videos](https://img.youtube.com/vi/nEBZ4VeTj7I/0.jpg)](https://www.youtube.com/watch?v=nEBZ4VeTj7I)
+[![More Videos](https://img.youtube.com/vi/Deh5NBr0e_A/0.jpg)](https://www.youtube.com/watch?v=Deh5NBr0e_A)
