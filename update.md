@@ -8,3 +8,6 @@ Performs and firmware update of the ESP32 using either an OTA web interface or a
 | Argument | Required/Optional | Description |
 | -------- | ----------------- | ----------- |
 | `-s/-w` | Required | Specify whether to use SD Card (`-s`) or web OTA (`-w`) |
+
+- `-s`: [SD Update](https://github.com/justcallmekoko/ESP32Marauder/wiki/sd-update)
+- `-w`: [Web Update](https://github.com/justcallmekoko/ESP32Marauder/wiki/web-update)
