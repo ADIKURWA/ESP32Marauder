@@ -1,4 +1,4 @@
-# Update Firmware
+# Update Firmware Menu
 <p align="left">
   <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/icons/update_22.bmp?raw=true" width="100">
 </p>
