@@ -3,7 +3,7 @@
 - [FAQ](faq)
 - [Marauder Versions](marauder-versions)
 - [Troubleshooting](troubleshooting)
-- Setup
+- [Getting Started](getting-started)
   - [Arduino IDE Setup](arduino-ide-setup)
   - DIY Platforms
     - [ESP32 Marauder Kit](esp32-marauder-kit)
