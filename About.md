@@ -33,7 +33,7 @@ You can check out the marauder article written [here](https://www.hackster.io/ne
 ### Do It Yourself
 <p align="left"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/diy.png?raw=true" width="800"></p>  
 
-If you would like to create your own ESP32 Marauder, check out [Do It Yourself](do-it-yourself).
+If you would like to create your own ESP32 Marauder, check out [Getting Started](getting-started).
 
 <p align="center">
   <img alt="Marauder logo" src="https://raw.githubusercontent.com/justcallmekoko/ESP32Marauder/master/pictures/m5stack.jpg?raw=true" height="300">
