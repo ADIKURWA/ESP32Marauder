@@ -29,6 +29,8 @@ The original ESP32 Marauder firmware uses many libraries and a few IDF modificat
 | Kit | `_kit.bin` |
 | Mini | `_mini.bin` |
 | Flipper Zero | `_flipper.bin` |
+| MutliBoard S3 | `_multiboardS3.bin` |
+| Dev Board Pro | `_devboardpro.bin` |
 
 9. With the ESP32 Marauder Kit powered on, Connect to the ESP32 Marauder OTA WiFi network
     - Network ESSID: `MarauderOTA`
