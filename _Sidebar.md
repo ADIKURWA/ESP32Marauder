@@ -11,6 +11,7 @@
   - Installing Firmware
     - [Installing Firmware via OTA](installing-firmware-via-ota)
     - [Installing Firmware From Source](installing-firmware-from-source)
+- [Update Firmware](update-firmware)
 - [Hardware](hardware)
   - [Antenna Options](antenna-options)
   - [IC Connections](ic-connections)
