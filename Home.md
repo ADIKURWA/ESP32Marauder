@@ -21,4 +21,4 @@ If you are willing to support me monetarily but still get stuff in return,
 head over to my [tindie store](https://www.tindie.com/stores/justcallmekoko/) where I sell production level projects I have made.
 
 ## Introduction
-If you are trying to build your own ESP32 Marauder, see [Hardware](hardware) and [Installing Firmware](installing-firmware)
+Don't know where to start? Check out [Getting Started](getting-started)
