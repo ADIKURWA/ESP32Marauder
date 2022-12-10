@@ -11,7 +11,7 @@
 
 ### These next steps only apply if you plan to build the full ESP32 Marauder firmware from source
 ### If you are following [these instructions](https://github.com/justcallmekoko/ESP32Marauder/wiki/esp32-marauder-kit#installing-firmware-over-the-air-ota-option-1easy), you do not need to do this
-5. With any text editor, open `C:\Users\<USERNAME>\AppDate\Local\Arduino15\packages\esp32\hardware\esp32\2.0.0-rc1\platform.txt`
+5. With any text editor, open `C:\Users\<USERNAME>\AppDate\Local\Arduino15\packages\esp32\hardware\esp32\2.0.3\platform.txt`
 6. Add `-w` to the following compiler settings
     - `build.extra_flags.esp32`
     - `build.extra_flags.esp32s2`
