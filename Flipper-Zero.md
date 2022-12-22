@@ -86,3 +86,6 @@ The following video describes and demonstrates the installation and usage of the
 [![More Videos](https://img.youtube.com/vi/1ftcESq-pNY/0.jpg)](https://www.youtube.com/watch?v=1ftcESq-pNY)
 [![More Videos](https://img.youtube.com/vi/nEBZ4VeTj7I/0.jpg)](https://www.youtube.com/watch?v=nEBZ4VeTj7I)
 [![More Videos](https://img.youtube.com/vi/Deh5NBr0e_A/0.jpg)](https://www.youtube.com/watch?v=Deh5NBr0e_A)
+
+## Next Steps
+If you're trying to figure out what to do now that you have Marauder installed on your Flipper Zero, consider reading [Commandline](cli) for how to use the Marauder command line interface, and [Workflow Examples](workflow-examples) to understand how to use some of the commands in a practical way.
