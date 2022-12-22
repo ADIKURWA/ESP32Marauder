@@ -48,6 +48,8 @@ Target selected APs and Stations: `attack -t deauth -c`
 Manually specify Source MAC: `attack -t deauth -s AA:BB:CC:DD:EE:FF`  
 Manually specify source and destination: `attack -t deauth -s AA:BB:CC:DD:EE:FF -d AA:BB:CC:DD:EE:FF`  
 
+**For more information on how to properly execute these deauthentication attacks, please see [Deauthentication Attack Workflow](https://github.com/justcallmekoko/ESP32Marauder/wiki/deauthentication-attack-workflow).**
+
 ## probe
 Before executing probe request flood attack on the ESP32 Marauder, you must build a list of available access points and select which access points to target. See [scanap](scanap) and [select](select) for more details on how to build a target list.
 
