@@ -28,6 +28,7 @@
     - [list](list)
     - [reboot](reboot-cmd)
     - [scanap](scanap)
+    - [scansta](scansta)
     - [select](select)
     - [settings](settings-cmd)
     - [sniffraw](sniffraw)
