@@ -24,7 +24,8 @@ Spam random SSIDs: `attack -t beacon -r`
 Create fake copies of an AP: `attack -t beacon -a`  
 
 ## deauth
-There are 3 different methods to execute a deauthentication attack with the Marauder. These methods are described below
+There are 3 different methods to execute a deauthentication attack with the Marauder. These methods are described below.  
+**For more information on how to properly execute these deauthentication attacks, please see [Deauthentication Attack Workflow](deauthentication-attack-workflow) and check the examples below.**
 
 #### Method 1 (Flood)
 In a deauthentication flood attack, a target access point is specified as the source address of each deauthentication frame sent. The destination address of these frames is set to broadcast. The intention is for **all** stations connected to the target access point to be removed from that network.  
