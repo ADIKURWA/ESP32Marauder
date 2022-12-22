@@ -8,6 +8,7 @@ Here are the currently supported commands:
   - [reboot](reboot-cmd)
 - WiFi Scanning/Sniffing
   - [scanap](scanap)
+  - [scansta](scansta)
   - [sniffbeacon](sniffbeacon)
   - [sniffdeauth](sniffdeauth)
   - [sniffpmkid](sniffpmkid)
