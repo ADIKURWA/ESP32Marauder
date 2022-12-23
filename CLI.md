@@ -1,5 +1,5 @@
 # Marauder Command Line Interface
-This feature is actively being developed for firmware v0.9.6. The goal is to produce command line interface which can be used over hardware serial and/or bluetooth serial. In theory this will allow anyone with an ESP32 and a TX/RX or phone with bluetooth to make and use their own Marauder.
+Every Marauder has the ability to offer a commandline interface. Official Marauder hardware or any ESP32 development board with a USB port can simply be interfaced via USB cable. The Marauder CLI allows for complete control of the firmware and will provide the user with the full capabilities of Marauder.
 
 For full usage on how to establish a connection to the Marauder command line interface, see [Access CLI](#access-cli) below.
 If you would like to see examples of how these commands are used in a workflow, check out [workflow examples](workflow-examples).
