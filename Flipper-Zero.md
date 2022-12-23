@@ -35,6 +35,8 @@ If you do not currently own a 3D printer and would like to purchase an enclosure
 | Really easy. Nothing to change, but you don't get any customization (which is fine). | This pill is the size of a large pumpkin and it goes in your ass. Install libraries, build from source, know everything |
 | [FZ Marauder Flasher](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher), [FZEasyMarauderFlash](https://github.com/SkeletonMan03/FZEasyMarauderFlash), or [Marauder OTA](installing-firmware-via-ota) | [Build from source](installing-firmware-from-source)
 
+Once you have installed the firmware, be sure to check [what to do next](#next-steps).
+
 #### Video Guide
 This video by [Lab 401](https://www.youtube.com/c/Lab401) will provide instructions for using the flasher script. This is the quickest way to get Marauder running on your device  
 [![Tutorial](https://img.youtube.com/vi/um_acrDaBK4/0.jpg)](https://www.youtube.com/watch?v=um_acrDaBK4)
