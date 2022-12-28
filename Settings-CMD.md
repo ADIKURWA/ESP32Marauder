@@ -1,5 +1,5 @@
 # Settings
-Display and manage settings for the ESP32 Marauder firmware.
+Display and manage settings for the ESP32 Marauder firmware. For more information on the available settings, see [Marauder Settings](marauder-settings).
 
 ## Usage
 ```settings [-s <setting> enable/disable]/[-r]```
