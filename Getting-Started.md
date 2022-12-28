@@ -5,6 +5,7 @@ The ESP32 Marauder firmware can be installed on a wide range of ESP32 hardware. 
 - Already have an ESP32 Marauder and want to know how to use it?
     - [Using the Marauder CLI](cli)
     - [Using the Marauder GUI](applications)
+    - [Marauder Settings](marauder-settings)
 - Want to build your own custom firmware?
     - [Building Firmware From Source](installing-firmware-from-source)
 - Trying to use your Flipper Zero WiFi Dev Board for pentesting?
