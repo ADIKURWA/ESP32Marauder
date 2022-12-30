@@ -8,9 +8,9 @@ If at any moment you need further guidance, consider joining the discord server.
 ## Table of Consonants
 - [Summary](#summary)
 - [WiFi Dev Board Enclosure](#wifi-dev-board-enclosure)
-- [Don't have a dev board?](#dont-have-a-dev-board)
 - [Firmware Install Options](#firmware-install-options)
   - [Video Guide](#video-guide)
+- [Don't have a dev board?](#dont-have-a-dev-board)
 - [Having Issues?](#having-issues)
 - [Tethered Usage](#tethered-usage)
 - [Untethered Usage](#untethered-usage)
@@ -30,10 +30,6 @@ If you do not currently own a 3D printer and would like to purchase an enclosure
 <p align="left"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/8NU10HwLlY6YAxBMm5zmX4wplCM=/p/fit-in/653x435/filters:fill(fff)/i/663561/products/2022-06-22T17%3A49%3A07.471Z-IMG_2245.JPG?1655894975" width="300"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/nlp5ZR3FJufeel8-LY3qtmIj9Ps=/p/fit-in/1370x912/filters:fill(fff)/i/663561/products/2022-06-22T17%3A49%3A07.471Z-IMG_2242.JPG?1655894975" width="300"></p><br>
 <p align="left"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/JFiK85Igb1EH4Sw9ACKfrHPCP8I=/p/fit-in/1370x912/filters:fill(fff)/i/663561/products/2022-08-23T17%3A05%3A36.894Z-IMG_5955%20-%20Copy.jpg?1661249267" width="500"></p>
 
-### Don't have a dev board?
-If you don't have a dev board, you can learn how to make one here...  
-[![Tutorial](https://i3.ytimg.com/vi/uc5_hVmJ-3Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=uc5_hVmJ-3Y)
-
 ### Firmware install options
 | Blue pill | Red Pill |
 | --------- | -------- |
@@ -49,6 +45,10 @@ This video by [Lab 401](https://www.youtube.com/c/Lab401) will provide instructi
 
 Once you install the Marauder firmware on the WiFi dev board, you can connect the dev board to the Flipper Zero GPIO header and connect the flipper to your PC or Android phone via USB cable.  
 On the Flipper Zero, navigate to `GPIO`>`USB-UART Bridge`. I keep my Bridge configured to use USB channel 0
+
+### Don't have a dev board?
+If you don't have a dev board, you can learn how to make one here...  
+[![Tutorial](https://i3.ytimg.com/vi/uc5_hVmJ-3Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=uc5_hVmJ-3Y)
 
 ## Having Issues?
 If you are having issues with your Marauder installation either with the install process or with the firmware usage, be sure to check if your issue has already been solved in [FAQ](../faq). If not, feel free to join my [Discord](https://discord.gg/invite/w5JmasxvKA) to request help from the community or submit an [issue](https://github.com/justcallmekoko/ESP32Marauder/issues)
