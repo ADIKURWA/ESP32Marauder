@@ -34,7 +34,7 @@ If you do not currently own a 3D printer and would like to purchase an enclosure
 | Blue pill | Red Pill |
 | --------- | -------- |
 | Really easy. Nothing to change, but you don't get any customization (which is fine). | This pill is the size of a large pumpkin and it goes in your ass. Install libraries, build from source, know everything |
-| [FZ Marauder Flasher](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher), [FZEasyMarauderFlash](https://github.com/SkeletonMan03/FZEasyMarauderFlash), or [Marauder OTA](installing-firmware-via-ota) | [Build from source](installing-firmware-from-source)
+| [Spacehuhn Web Installer](https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware#using-spacehuhn-web-updater), [FZ Marauder Flasher](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher), [FZEasyMarauderFlash](https://github.com/SkeletonMan03/FZEasyMarauderFlash), or [Marauder OTA](installing-firmware-via-ota) | [Build from source](installing-firmware-from-source)
 
 Once you have installed the firmware, be sure to check [what to do next](#next-steps).
 
