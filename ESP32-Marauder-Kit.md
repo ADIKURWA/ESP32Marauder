@@ -44,7 +44,7 @@ The ESP32 Marauder Kit is a bundle of hardware components that allow a user to a
 You have two options for installing firmware. If you want to hit the ground running as fast as possible with minimal effort, I recommend Option 1. You will also have Option 1 available in future firmware updates (see [Update Firmware](update-firmware)). If you want to get to know the source code and the build process, try Option 2. If Option 2 fails, try Option 1.
 
 ### Installing Firmware Over The Air (OTA) (Option 1)(easy)
-To install a pre-compiled binary of the ESP32 Marauder firmware over-the-air(OTA), see [Installing Firmware via OTA](installing-firmware-via-ota)
+To install a pre-compiled binary of the ESP32 Marauder firmware, pick any of the options under [Update Firmware](update-firmware)
 
 ### Building and Installing Firmware from source (Option 2)(not easy)
 To build the ESP32 Marauder firmware from source and install it on the Adafruit Huzzah32, follow the instructions under [Installing Firmware From Source](installing-firmware-from-source).
