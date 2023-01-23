@@ -40,6 +40,6 @@ You can use the web updater made by Spacehuhn to install/update the Marauder fir
 | Mini | `_mini.bin` |
 | Flipper Zero | `_flipper.bin` |
 | MutliBoard S3 | `_multiboardS3.bin` |
-| Dev Board Pro | `_devboardpro.bin` |
+| Dev Board Pro | `_marauder_dev_board_pro.bin` |
 
 4. Click program and wait. Once it says "To run the new firmware please reset your device", either hit the reset button or just flick the power switch off and back on
