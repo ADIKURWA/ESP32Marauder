@@ -12,6 +12,8 @@
 | Kit | `_kit.bin` |
 | Mini | `_mini.bin` |
 | Flipper Zero | `_flipper.bin` |
+| MutliBoard S3 | `_multiboardS3.bin` |
+| Dev Board Pro | `_marauder_dev_board_pro.bin` |
 
 2. With Marauder powered on, navigate to `Device`>`Update Firmware`>`Web Update`
     - `update -w` if you are using CLI
