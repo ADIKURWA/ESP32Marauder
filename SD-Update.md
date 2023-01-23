@@ -13,6 +13,8 @@
 | Kit | `_kit.bin` |
 | Mini | `_mini.bin` |
 | Flipper Zero | `_flipper.bin` |
+| MutliBoard S3 | `_multiboardS3.bin` |
+| Dev Board Pro | `_marauder_dev_board_pro.bin` |
 
 2. Copy the bin file you downloaded to the root of an SD card
 3. Rename the bin file on the SD card to `update.bin`
