@@ -30,6 +30,7 @@ The original ESP32 Marauder firmware uses many libraries and a few IDF modificat
 | Mini | `_mini.bin` |
 | Flipper Zero | `_flipper.bin` |
 | MutliBoard S3 | `_multiboardS3.bin` |
+| LDDB/NodeMCU/Wemos | `_lddb.bin` |
 | Dev Board Pro | `_marauder_dev_board_pro.bin` |
 
 9. With the ESP32 Marauder Kit powered on, Connect to the ESP32 Marauder OTA WiFi network
