@@ -14,6 +14,7 @@
 | Mini | `_mini.bin` |
 | Flipper Zero | `_flipper.bin` |
 | MutliBoard S3 | `_multiboardS3.bin` |
+| LDDB/NodeMCU/Wemos | `_lddb.bin` |
 | Dev Board Pro | `_marauder_dev_board_pro.bin` |
 
 2. Copy the bin file you downloaded to the root of an SD card
