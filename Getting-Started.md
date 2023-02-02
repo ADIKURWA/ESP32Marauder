@@ -8,6 +8,8 @@ The ESP32 Marauder firmware can be installed on a wide range of ESP32 hardware. 
     - [Marauder Settings](marauder-settings)
 - Want to build your own custom firmware?
     - [Building Firmware From Source](installing-firmware-from-source)
+- You purchased an [ESP32 Wemos D1 Mini Adapter](https://www.tindie.com/products/justcallmekoko/flipper-zero-esp32-wemos-d1-mini-adapter/) and need to install the firmware?
+    - [Updating Marauder Firmware](update-firmware)
 - Trying to use your Flipper Zero WiFi Dev Board for pentesting?
     - [Installing Marauder on the Flipper Zero WiFi Dev Board](flipper-zero)
 - Received and ESP32 Marauder Kit from my shop and want to put it together?
