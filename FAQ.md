@@ -14,7 +14,7 @@
 - [I can't connect to MarauderOTA when doing the MarauderOTA installation method](#i-cant-connect-to-marauderota-when-doing-the-marauderota-installation-method)
 - [My Flipper dev board reverts back to MarauderOTA after I disconnect it from power](#my-flipper-dev-board-reverts-back-to-marauderota-after-i-disconnect-it-from-power)
 - [How do I use different attacks and scans on commandline](#how-do-i-use-different-attacks-and-scans-on-commandline)
-- [I have a flipper dev board and my PCAPs aren't saving](#i-have-a-flipper-dev-board-and-my-pcaps-arent-saving)
+- [My PCAPs aren't saving](#my-pcaps-arent-saving)
 
 ## What is Marauder
 The ESP32 Marauder is a WiFi and Bluetooth analysis tool. It hosts a suite of capabilities for frame capture, device enumeration, and frame transmission. It is intended to serve as a portable device to stand in for physically larger traffic capturing tools and to provide captured data for post-op analysis.
@@ -58,6 +58,6 @@ Ensure you follow the MarauderOTA instructions exactly as they are written. Take
 ## How do I use different attacks and scans on commandline
 Check out some of the workflow examples [here](https://github.com/justcallmekoko/ESP32Marauder/wiki/workflow-examples)
 
-## I have a flipper dev board and my PCAPs aren't saving
+## My PCAPs aren't saving
 Make sure you have followed [these instructions](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero#sd-card-modification) for installing the SD card modification on your flipper zero wifi dev board. PCAPs cannot save to the SD card connected to the actual Flipper Zero.  
-If you have already followed those instructions and you are certain you have followed them correctly, make sure you have the `SavePCAP` settings enabled. More information for settings can be found [here](marauder-settings).
+If you have already followed those instructions and you are certain you have followed them correctly, make sure you have the `SavePCAP` settings enabled. More information for settings can be found [here](marauder-settings). If that settings is enabled, try running [`settings -r`](https://github.com/justcallmekoko/ESP32Marauder/wiki/settings-cmd) to reset your settings.
