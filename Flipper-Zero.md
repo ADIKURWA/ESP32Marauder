@@ -64,7 +64,10 @@ For tethered use, follow these steps...
     - Be sure to check what COM port your flipper zero is on so you know what to connect to
 
 ### Untethered Usage
-If you would like to use the Flipper Zero and it's WiFi dev board flashed with Marauder as a standalone unit without a PC or mobile phone attached, install [flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases/latest) by [RogueMaster](https://github.com/RogueMaster) on your Flipper Zero. It features an interface directly available on the Flipper Zero menu which allows full control of the Marauder firmware running on the dev board.
+If you would like to use the Flipper Zero and it's WiFi dev board flashed with Marauder as a standalone unit without a PC or mobile phone attached, install any of the following 3rd party Flipper Zero firmwares on your device. They come prebuilt with the [WiFi Marauder](https://github.com/0xchocolate/flipperzero-firmware-with-wifi-marauder-companion) fap created by [0xchocolate](https://github.com/0xchocolate).  
+- [Unleashed](https://github.com/DarkFlippers/unleashed-firmware)
+- [Xtreme](https://github.com/ClaraCrazy/Flipper-Xtreme)
+- [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 
 ### SD Card Modification
 A MicroSD card can be attached to the Flipper Zero WiFi Dev Board SPI via a [MicroSD Breakout](https://www.sparkfun.com/products/544). Attaching a microSD card to the Flipper Zero WiFi Dev Board will allow the Marauder firmware to save captured WiFi traffic to storage in the form of PCAP files to be exported for analysis later. Refer to the following table for the required solder connections
