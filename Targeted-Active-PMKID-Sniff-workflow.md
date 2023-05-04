@@ -17,3 +17,5 @@ The following documentation describes a method of traffic sniffing where WPA han
 
 5. Execute a targeted active PMKID sniff
   - `sniffpmkid -d -l`
+
+You will see notification text indicating when a beacon from a target access point is received and that a deauthentication attack is being executed.
