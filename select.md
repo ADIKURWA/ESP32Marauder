@@ -11,9 +11,11 @@ Any specified indices which were **NOT** already `selected` will become `selecte
 | `-a <CSL of target indices>/all` | Optional | The index numbers of the access points shown with [list](list) |
 | `-s <CSL of target indices>` | Optional | The index numbers of the ssids shown with [list](list) |
 | `-c <CSL of target indices>` | Optional | The index numbers of the stations show with [list](list) |
+| `-f equals/contains <String>` | Optional | Select indices equal to or containing the specified string |
 
 #### Examples
 `select -a 1,3,5`: Selects APs at indices 1, 3, and 5  
 `select -a all`: Selects all APs in the list  
 `select -c 3,4,29`: Select stations at indices 3, 4, and 29
+`select -a -f "equals 'E CORP' or contains EVIL"`: Select all APs who's ESSIDs are equal to `E COPR` or contain `EVIL`
 
