@@ -9,3 +9,4 @@ Sniffs and displays captured pmkid/eapol frames sent during WiFi authentication 
 | -------- | ----------------- | ----------- |
 | `-c <channel>` | Optional | Specify the channel to start sniffing on |
 | `-d` | Optional | Send deauthentication frames to trigger handshakes |
+| `-l` | Optional | Only target selected access points from [list](list) |
