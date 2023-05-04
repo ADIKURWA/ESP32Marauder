@@ -16,6 +16,6 @@ Any specified indices which were **NOT** already `selected` will become `selecte
 #### Examples
 `select -a 1,3,5`: Selects APs at indices 1, 3, and 5  
 `select -a all`: Selects all APs in the list  
-`select -c 3,4,29`: Select stations at indices 3, 4, and 29
+`select -c 3,4,29`: Select stations at indices 3, 4, and 29  
 `select -a -f "equals 'E CORP' or contains EVIL"`: Select all APs who's ESSIDs are equal to `E COPR` or contain `EVIL`
 
