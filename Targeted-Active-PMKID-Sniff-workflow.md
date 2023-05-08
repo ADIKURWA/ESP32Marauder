@@ -19,3 +19,5 @@ The following documentation describes a method of traffic sniffing where WPA han
   - `sniffpmkid -d -l`
 
 You will see notification text indicating when a beacon from a target access point is received and that a deauthentication attack is being executed.
+
+**Note: Channels are cycled one channel every second when using the `-l` switch. There is no need to manually set/update the channel before/during the sniff.**
