@@ -60,3 +60,9 @@ The following describes the order of operations necessary to properly execute th
 1. Execute manual deauthentication attack
     - `attack -t deauth -s 00:00:00:00:00:00 -d ff:ff:ff:ff:ff:ff`  
 ![image](https://user-images.githubusercontent.com/25190487/209220518-bd51c87c-d0de-4316-9fe1-fe7d1dbc2738.png)
+
+### References
+- [scanap](scanap)
+- [list](list)
+- [select](select)
+- [attack](attack)
