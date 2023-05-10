@@ -15,3 +15,8 @@ This method will generate a list of random SSIDs. During the Beacon Spam, the SS
 This method will generate a new random SSID every time a beacon frame is built and sent. There is no requirement to generate a list of SSIDs
 1. Execute a random beacon spam attack
     - `attack -t beacon -r`
+
+### References
+- [ssid](ssid)
+- [list](list)
+- [attack](attack)
