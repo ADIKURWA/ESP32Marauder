@@ -12,3 +12,10 @@ The following describes the order of operations necessary to properly execute th
     - `list -a`
 5. Execute the AP Clone Spam attack
     - `attack -t beacon -a`
+
+
+### References
+- [scanap](scanap)
+- [list](list)
+- [select](select)
+- [attack](attack)
