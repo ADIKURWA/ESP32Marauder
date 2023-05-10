@@ -9,3 +9,8 @@ The following describes the order of operations necessary to properly execute th
     - `list -a`
 3. Execute a beacon list spam attack
     - `attack -t beacon -l`
+
+### References
+- [ssid](ssid)
+- [list](list)
+- [attack](attack)
