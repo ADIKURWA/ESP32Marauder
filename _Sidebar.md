@@ -63,6 +63,7 @@
       - [Scan APs](scan-aps)
       - [Raw Sniff](raw-sniff)
       - [Scan Stations](scan-stations)
+      - [Signal Monitor](signal-monitor)
     - [WiFi Attacks](wifi-attacks)
       - [Beacon Spam List](beacon-spam-list)
       - [Beacon Spam Random](beacon-spam-random)
