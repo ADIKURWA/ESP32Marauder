@@ -11,6 +11,7 @@ head over to the discord.
 If you are willing to show a little support, check out the following links: 
 
 - [Instagram](https://www.instagram.com/just.call.me.koko/?hl=en)
+- [TikTok](https://www.tiktok.com/@just.call.me.koko.rip)
 - [Twitch](https://twitch.tv/willstunforfood)
 - [YouTube](https://www.youtube.com/justcallmekoko)
 - [Patreon](https://www.patreon.com/justcallmekoko)
