@@ -59,5 +59,11 @@ Ensure you follow the MarauderOTA instructions exactly as they are written. Take
 Check out some of the workflow examples [here](https://github.com/justcallmekoko/ESP32Marauder/wiki/workflow-examples)
 
 ## My PCAPs aren't saving
-Make sure you have followed [these instructions](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero#sd-card-modification) for installing the SD card modification on your flipper zero wifi dev board. PCAPs cannot save to the SD card connected to the actual Flipper Zero.  
+Make sure you have followed [these instructions](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero#sd-card-modification) for installing the SD card modification on your flipper zero wifi dev board. PCAPs cannot save to the SD card connected to the actual Flipper Zero unless these two conditions are met:
+
+- You are using the `flipper_sd_serial.bin`
+- You are using a WiFi Dev Board that has an ESP32-S2 with supported connections
+- You have enabled the SD Serial option in the Marauder companion app on your Flipper Zero
+
+If these conditions have not been met, it is assumed you are using an SD card modification on your Dev Board or it came with an SD card slot.  
 If you have already followed those instructions and you are certain you have followed them correctly, make sure you have the `SavePCAP` settings enabled. More information for settings can be found [here](marauder-settings). If that settings is enabled, try running [`settings -r`](https://github.com/justcallmekoko/ESP32Marauder/wiki/settings-cmd) to reset your settings.
