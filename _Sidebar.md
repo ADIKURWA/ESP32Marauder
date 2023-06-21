@@ -25,6 +25,7 @@
     - [channel](channel)
     - [clearlist](clearlist)
     - [help](help)
+    - [led](led)
     - [list](list)
     - [reboot](reboot-cmd)
     - [scanap](scanap)
