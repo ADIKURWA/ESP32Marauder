@@ -8,7 +8,7 @@ You can use any of the following options to update your Flipper Zero WiFi Dev Bo
   - [Marauder OTA](https://github.com/justcallmekoko/ESP32Marauder/wiki/installing-firmware-via-ota) (buggy)
   - [Spacehuhn Web Updater](#using-spacehuhn-web-updater)
 
-## ESP32 Marauder v4, v6, Kit, Mini:
+## ESP32 Marauder v4, v6, Kit, Mini, WiFi Dev Board Pro:
 You can use any of the following options to update your ESP32 Marauder v4:
   - [CLI Update](https://github.com/justcallmekoko/ESP32Marauder/wiki/update)
   - [Update Firmware Menu](update-firmware-menu) **(recommended)**
