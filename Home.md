@@ -1,5 +1,6 @@
 Welcome to the ESP32 Marauder Wiki.  
 I hope you enjoy the project and find this documentation helpful.
+Be sure to check out [Thanks](thanks).
 
 ## Socials 
 
