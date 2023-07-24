@@ -6,3 +6,5 @@
 - [Bodmer](https://github.com/Bodmer) for a comprehensive TFT touch screen library [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
 - [HyderHasnain](https://github.com/hyderhasnain) for an adaptable [line graph](https://github.com/hyderhasnain/arduino_touchscreen_controller/blob/master/Code/AccelGraph_Original.ino) to be used as the packet monitor
 - [Tobozo](https://github.com/tobozo) Introducing the lv_arduino library
+- [0xchocolate](https://github.com/0xchocolate) for the Marauder Companion App
+- [bigbrodude6119](https://github.com/bigbrodude6119) For Evil Portal
