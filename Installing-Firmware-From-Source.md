@@ -16,6 +16,8 @@ If you are building your own Marauder or assembling the ESP32 Marauder Kit, it w
     - [NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
     - [ArduinoJson](https://github.com/bblanchon/ArduinoJson/releases/tag/v6.18.2)
     - [SwitchLib](https://github.com/justcallmekoko/SwitchLib/releases/latest)
+    - [ESPAsyncWebServer](https://github.com/bigbrodude6119/ESPAsyncWebServer)
+    - [AsyncTCP](https://github.com/me-no-dev/AsyncTCP)
 <!---6. Install Bodmer's [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) library in your Arduino IDE--->
 3. Follow [these instructions](https://github.com/me-no-dev/arduino-esp32fs-plugin) for installing ESP32 Spiffs Tool
 4. Install the [CH340 Drivers](https://github.com/justcallmekoko/ESP32Marauder/blob/master/Drivers/CH34x_Install_Windows_v3_4.EXE)
