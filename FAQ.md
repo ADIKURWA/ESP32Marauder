@@ -9,7 +9,7 @@
 - [Does the Marauder firmware work on other ESP32 devices](#does-the-marauder-firmware-work-on-other-esp32-devices)
 - [I updated the Marauder and now the touch screen does not work](#i-updated-the-marauder-and-now-the-touch-screen-does-not-work)
 - [My SD card is not detected by the Marauder](#my-sd-card-is-not-detected-by-the-marauder)
-- [Multiple Definition of `ieee80211_raw_frame_sanity_check'](#multiple-definition-of-ieee80211_raw_frame_sanity_check)
+- [Multiple Definition of `ieee80211_raw_frame_sanity_check`](#multiple-definition-of-ieee80211_raw_frame_sanity_check)
 - [I tried to compile the firmware and it complained about LVGL](#i-tried-to-compile-the-firmware-and-it-complained-about-lvgl)
 - [I can't connect to MarauderOTA when doing the MarauderOTA installation method](#i-cant-connect-to-marauderota-when-doing-the-marauderota-installation-method)
 - [My Flipper dev board reverts back to MarauderOTA after I disconnect it from power](#my-flipper-dev-board-reverts-back-to-marauderota-after-i-disconnect-it-from-power)
