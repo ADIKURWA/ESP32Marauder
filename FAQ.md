@@ -43,7 +43,7 @@ If the screen does not work after updating the firmware, it is possible you used
 ## My SD card is not detected by the Marauder
 Ensure the size of the SD card you are using is less than or equal to 32GB. If this is the case, try using an SD card by Sandisk. Some other brands of SD card such as Samsung cause the Marauder not to boot properly or not initialize the SD card. You will also want to make sure the SD card is initialized in Fat32. If you are running any version of Marauder earlier than v0.9.15, update to the latest firmware.
 
-## Multiple Definition of `ieee80211_raw_frame_sanity_check'
+## Multiple Definition of `ieee80211_raw_frame_sanity_check`
 Make sure you followed [these steps](https://github.com/justcallmekoko/ESP32Marauder/wiki/arduino-ide-setup#these-next-steps-only-apply-if-you-plan-to-build-the-full-esp32-marauder-firmware-from-source) when setting up your Arduino IDE
 
 ## I tried to compile the firmware and it complained about LVGL
