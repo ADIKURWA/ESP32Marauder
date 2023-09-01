@@ -91,6 +91,8 @@
       - [Detect Card Skimmers](detect-card-skimmers)
     - [Bluetooth General](bluetooth-general)
       - [Shutdown BLE](shutdown-ble)
+  - [GPS](gps)
+    - [GPS Data](gps-data)
   - [General Apps](general-apps)
     - [Draw](draw)
   - [Device](device)
