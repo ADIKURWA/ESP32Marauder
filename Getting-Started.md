@@ -6,6 +6,7 @@ The ESP32 Marauder firmware can be installed on a wide range of ESP32 hardware. 
     - [Using the Marauder CLI](cli)
     - [Using the Marauder GUI](applications)
     - [Marauder Settings](marauder-settings)
+    - [GPS Modification/Wardriving?](gps-modification)
 - Want to build your own custom firmware?
     - [Building Firmware From Source](installing-firmware-from-source)
 - You purchased an [ESP32 Wemos D1 Mini Adapter](https://www.tindie.com/products/justcallmekoko/flipper-zero-esp32-wemos-d1-mini-adapter/) and need to install the firmware?
