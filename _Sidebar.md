@@ -93,8 +93,6 @@
       - [Shutdown BLE](shutdown-ble)
   - [GPS](gps)
     - [GPS Data](gps-data)
-  - [General Apps](general-apps)
-    - [Draw](draw)
   - [Device](device)
     - [Update Firmware](update-firmware)
       - [Web Update](web-update)
