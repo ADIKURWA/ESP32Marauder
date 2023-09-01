@@ -3,7 +3,6 @@ The ESP32 Marauder has many applications separated into subcategories. If you ha
 
 - [WiFi](wifi)
 - [Bluetooth](bluetooth)
-- [BadUSB](badusb)
-- [General Apps](general-apps)
+- [GPS](gps)
 - [Device](device)
 - [Reboot](reboot)
