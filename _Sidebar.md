@@ -13,6 +13,7 @@
     - [Installing Firmware From Source](installing-firmware-from-source)
 - [Update Firmware](update-firmware)
 - [Hardware](hardware)
+  - [GPS Modification](gps-modification)
   - [Antenna Options](antenna-options)
   - [IC Connections](ic-connections)
   - [Battery](battery)
