@@ -97,7 +97,6 @@
     - [Update Firmware](update-firmware)
       - [Web Update](web-update)
       - [SD Update](sd-update)
-      - [ESP8266 Update](esp8266-update)
     - [Device Info](device-info)
     - [Settings](settings)
   - [Reboot](reboot)
