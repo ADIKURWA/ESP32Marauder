@@ -14,7 +14,7 @@ Connect your GPS module VCC and GND to corresponding VCC and GND on your Maraude
 | Marauder v6 | IO04 | IO13 |
 | Marauder Kit | IO04 | IO13 |
 
-Use a piece of strong double sided tape like from 3M to adhere the GPS module and antenna to a spot on the Marauder PCB/Enclosure.
+Use a piece of strong double sided tape like from 3M to adhere the GPS module and antenna to a spot on the Marauder PCB/Enclosure.  
 <img src="https://github.com/justcallmekoko/ESP32Marauder/assets/25190487/26a104dc-784e-497f-ac4d-549ee1f2a831" width="400"> 
 
 
