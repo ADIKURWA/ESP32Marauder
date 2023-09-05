@@ -1,9 +1,13 @@
 # GPS Modification
-As of ESP32 Marauder firmware version 0.11.0, users can modify their Marauder hardware to use external GPS modules. These GPS modules provide location data used for wardriving(planned). The following GPS module was used during testing.
+As of ESP32 Marauder firmware version 0.11.0, users can modify their Marauder hardware to use external GPS modules. These GPS modules provide location data used for wardriving(planned). The following GPS modules was used during testing and proven to function properly.
 
 <img src="https://github.com/justcallmekoko/ESP32Marauder/assets/25190487/b52b881b-5dd3-4900-8f88-d09e3fe66d9a" width="400">  
 
 *Teyleten Robot ATGM336H NEO-6M*
+
+<img src="https://github.com/justcallmekoko/ESP32Marauder/assets/25190487/f24cf723-8423-4b60-9f5e-faaa591844ba" width="400">
+
+*DWEII GY-NEO6MV2*
 
 ## Connections
 Connect your GPS module VCC and GND to corresponding VCC and GND on your Marauder. Use the following table as a reference to make the UART connection between your Marauder and GPS module:
