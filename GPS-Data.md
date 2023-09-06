@@ -1,2 +1,2 @@
 # GPS Data
-Shows GPS data stored by Marauder during your current session. This data is volatile and not stored in any non-volatile memory except for during wardriving sessions.
+Shows GPS data stored by Marauder during your current session. This data is not stored in any non-volatile memory except for during wardriving sessions. If the GPS module does not have a proper fix, the data will display all zeroes. The displayed data refreshes every 5 seconds.
