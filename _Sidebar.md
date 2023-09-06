@@ -26,6 +26,7 @@
     - [channel](channel)
     - [clearlist](clearlist)
     - [evilportal](evilportal)
+    - [gpsdata](gpsdata)
     - [help](help)
     - [led](led)
     - [list](list)
