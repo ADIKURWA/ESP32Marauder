@@ -15,3 +15,6 @@ This function is available for use via the [Marauder CLI](cli). The following do
 
 ## Wardrive Log Output
 Logs are saved to the onboard SD card or to the Flipper SD card (if you have the serial firmware installed) with the prefix "wardrive_". These files can be uploaded to [wigle.net](https://www.wigle.net) and will count towards your personal stats.
+
+## Thanks
+Huge thanks to [JosephHewitt](https://github.com/JosephHewitt/) for his [Wardriver](https://github.com/JosephHewitt/wardriver_rev3/tree/main) project. Much of his code was repurposed to satisfy the need for a wardriving function in the Marauder firmware.
