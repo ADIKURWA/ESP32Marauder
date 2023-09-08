@@ -1,10 +1,21 @@
 # GPS Modification
 As of ESP32 Marauder firmware version 0.11.0, users can modify their Marauder hardware to use external GPS modules. These GPS modules provide location data used for wardriving(planned). The following GPS modules was used during testing and proven to function properly.
 
+## Table of Concubines
+- [Introduction](#introduction)
+- [Connections](#connections)
+- [Verifying Successful Installation](#verifying-successful-installation)
+- [Antenna](#antenna)
+  - [Ceramic](#ceramic)
+  - [SMA](#sma)
+- [Usage Information](#usage-information)
+
+
 <a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/rP_pTNT9Hiwp+cB9UszVQg.png">
 </a>  
 
+## Introduction
 Start Wardriving with this modification  
 
 
@@ -52,4 +63,6 @@ The [following enclosures](https://github.com/justcallmekoko/ESP32Marauder/tree/
 
 
 ## Usage Information
-For usage information, see [GPS](gps).
+What to do with your GPS mod now. Try these...
+- [GPS Data](gps-data)
+- [Wardrive](wardrive)
