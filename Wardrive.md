@@ -1,0 +1,17 @@
+# Wardrive
+<a href="https://wigle.net">
+<img border="0" src="https://wigle.net/bi/rP_pTNT9Hiwp+cB9UszVQg.png">
+</a>  
+
+This function allows users to continuously scan for WiFi networks. Once a network is detected, the current position from the attached GPS module along with the network information is logged and saved to a file with "wardrive" prefix to SD card. To exit the scan, simply tap the screen. Because of the method of scanning, it may take multiple taps to exit. **This function requires the [GPS Modification](gps-modification).**
+
+During the scan, network information is only saved to the log file as long as the GPS has a valid fix which can change at any point during the scan depending on location, weather, and antenna.
+
+## CLI
+This function is available for use via the [Marauder CLI](cli). The following documentation describes command usage. The wardrive function can be stopped with [`stopscan`](stopscan).
+
+### Usage
+`wardrive`
+
+## Wardrive Log Output
+Logs are saved to the onboard SD card or to the Flipper SD card (if you have the serial firmware installed) with the prefix "wardrive_". These files can be uploaded to [wigle.net](https://www.wigle.net) and will count towards your personal stats.
