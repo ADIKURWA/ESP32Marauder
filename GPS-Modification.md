@@ -43,7 +43,7 @@ Use a piece of strong double sided tape like from 3M to adhere the GPS module an
 
 
 ## Verifying Successful Installation
-You will know if you've successfully installed the GPS module if you see a "GPS" menu item on the main menu of Marauder. You will also see a red or green satellite icon on the far left side of your status bar. If you have not properly installed the GPS module or you used an incompatible GPS module, you will **not** see these two items.
+You will know if you've successfully installed the GPS module if you see a "GPS Data" menu item on the "Device" menu of Marauder. You will also see a red or green satellite icon on the far left side of your status bar. If you have not properly installed the GPS module or you used an incompatible GPS module, you will **not** see these two items.
 <img src="https://github.com/justcallmekoko/ESP32Marauder/assets/25190487/6823c140-407e-4a21-a16d-903a882f20d7" width="400"> 
 
 ## Antenna
