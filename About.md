@@ -17,7 +17,7 @@
 
 Catch my live stream on [Twitch](https://www.twitch.tv/willstunforfood) where I play games, have just chatting sessions to talk tech, and just generally be an ordinary person who can't figure out how to make proper life decisions.
 
-## Built on [arduino-esp32 v2.0.10](https://github.com/espressif/arduino-esp32/releases/tag/2.0.10)
+## Built on [arduino-esp32 v2.0.11](https://github.com/espressif/arduino-esp32/releases/tag/2.0.11)
 
 [![Build and Push](https://github.com/justcallmekoko/ESP32Marauder/actions/workflows/build_push.yml/badge.svg)](https://github.com/justcallmekoko/ESP32Marauder/actions/workflows/build_push.yml)
 
