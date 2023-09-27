@@ -41,19 +41,6 @@ Counter to what the name implies, this is the second official iteration of the E
   <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_0426.JPG?raw=true" width="500">
 </p>
 
-## ESP32 Marauder v7
-As of 27APR2021, this is the latest version of the ESP32 Marauder. The PCB footprint and enclosure design is the same as the original ESP32 Marauder. This was done on purpose to give it somewhat of a [sleeper](https://www.urbandictionary.com/define.php?term=sleeper) status. The ESP32 Marauder v7 features an ESP32 WROOM, ESP8266, and an ATmega32u4, giving it the ability to execute WiFi and Bluetooth analysis operations, Deauthentication attacks, and keystroke injection attacks. For more information on these analysis and attack methodologies, see [WiFi Sniffers](wifi-sniffers), [WiFi Attacks](wifi-attacks), [Bluetooth Sniffers](bluetooth-sniffers), and [BadUSB](badusb).  
-
-<p align="left">
-  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_1838.JPG?raw=true" width="500">
-</p> 
-
-The ESP32 Marauder v7 uses a USB-C port for USB communication and charging. The ESP32 still functions as a serial data proxy between the ESP8266 and the PC. Because of the ATmega32u4's native USB support, it is able to interface directly with a connected PC. The ATmega32u4 and CH340C (USB to UART convert for ESP32) are able to communicate with a connected PC through the single USB-C port. This is accomplished by using a USB Hub IC. For more information on these ICs and their connections, see [IC Connections](ic-connections).
-
-For user awareness and troubleshooting, status LEDs are used to represent the serial communication between all ICs present on the Marauder 7 PCB.
-<p align="left">
-  <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_1849.JPG?raw=true" width="500">
-</p>
 
 ## ESP32 Marauder Kit
 It's a kit
