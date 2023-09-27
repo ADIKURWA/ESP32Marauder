@@ -21,7 +21,7 @@ There are several different versions of Marauder I have developed. Each Marauder
 | Manual SSID    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:(CLI Only) | :heavy_check_mark:(CLI Only) |
 | OTA Update     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | SD Update      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:(with mod) |
-| Status LED     | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                | :heavy_check_mark: |
+| Status LED     | :x:                | :x: | :x:                | :x:                | :x:                | :heavy_check_mark: |
 | HID attacks    | :x:                | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                |
 | ESP8266 co-mcu | :x:                | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                |
 
@@ -35,7 +35,7 @@ This is the original ESP32 Marauder. The first Marauder which was available for 
 The original Marauder only features a single ESP32 WROOM chip, a two piece 3D printed enclosure, Micro USB Charging and programming, and rechargeable LiPo battery. This is one of two versions which has been sold on Tindie as of 27APR2021.
 
 ## ESP32 Marauder v6
-Counter to what the name implies, this is the second official iteration of the ESP32 Marauder. The main differences between this iteration and its predecessor is its use of a push-in push-out micro SD card slot, single PCB design with the TFT fixed directly to the PCB, 18650 Battery holder, single piece 3D printed back plate, and a single WS2812b RGB LED on the front of the tool. Aside from those aspects, the overall functionality of this version remains the same as the previous.  
+Counter to what the name implies, this is the second official iteration of the ESP32 Marauder. The main differences between this iteration and its predecessor is its use of a push-in push-out micro SD card slot, single PCB design with the TFT fixed directly to the PCB, 18650 Battery holder, and an improved full enclosure. Aside from those aspects, the overall functionality of this version remains the same as the previous.  
 
 <p align="left">
   <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/IMG_0426.JPG?raw=true" width="500">
