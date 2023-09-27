@@ -3,7 +3,7 @@
   <img alt="ESP32 WROOM-32U" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/icons/eapol_22.bmp?raw=true" width="100">
 </p>
 
-### Menu Location
+### Menu Path
 `WiFi`>`Sniffers`>`EAPOL/PMKID Scan`  
 
 ### Info
