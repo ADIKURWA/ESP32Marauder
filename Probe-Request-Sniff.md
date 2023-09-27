@@ -15,7 +15,7 @@ if ((snifferPacket->payload[0] == 0x40) && (display_obj.display_buffer->size() =
 
 For each probe request captured, the following information is displayed on the screen:  
 - Source MAC
-- Destination ESSID
+- Destination ESSID/BSSID
 
 All probe requests will be saved to an attached SD card in a PCAP file.
 
