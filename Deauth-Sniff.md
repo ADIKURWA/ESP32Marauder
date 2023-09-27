@@ -3,7 +3,7 @@
   <img alt="ESP32 WROOM-32U" src="https://raw.githubusercontent.com/justcallmekoko/ESP32Marauder/master/pictures/icons/deauth_sniff_22.bmp" width="100">
 </p>
 
-### Menu Location
+### Menu Path
 `WiFi`>`Sniffers`>`Deauth Sniff`  
 
 ### Info
