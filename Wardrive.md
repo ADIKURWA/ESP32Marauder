@@ -7,6 +7,9 @@ This function allows users to continuously scan for WiFi networks. Once a networ
 
 During the scan, network information is only saved to the log file as long as the GPS has a valid fix which can change at any point during the scan depending on location, weather, and antenna.
 
+## Menu Path
+`WiFi`>`Sniffers`>`Wardrive`
+
 ## CLI
 This function is available for use via the [Marauder CLI](cli). The following documentation describes command usage. The wardrive function can be stopped with [`stopscan`](stopscan).
 
