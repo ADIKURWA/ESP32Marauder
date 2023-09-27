@@ -7,6 +7,11 @@ This function allows users to continuously scan for WiFi networks. Once a networ
 
 During the scan, network information is only saved to the log file as long as the GPS has a valid fix which can change at any point during the scan depending on location, weather, and antenna.
 
+The following information is displayed on screen while sniffing:  
+- Source ESSID/BSSID
+- Latitude and Longitude (if valid fix)
+- "No Fix" (if no valid fix)
+
 ## Menu Path
 `WiFi`>`Sniffers`>`Wardrive`
 
