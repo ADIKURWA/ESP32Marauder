@@ -17,7 +17,7 @@ if ((snifferPacket->payload[0] == 0x80) && (display_obj.display_buffer->size() =
 
 For each beacon captured, the following information will be displayed on screen:  
 - Source MAC
-- Source ESSID/BSSID
+- Source ESSID
 
 All beacons will be saved to an attached SD card in a PCAP file.
 
