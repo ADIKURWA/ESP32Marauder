@@ -92,7 +92,7 @@
     - [Bluetooth Sniffers](bluetooth-sniffers)
       - [Bluetooth Sniffer](bluetooth-sniffer)
       - [Bluetooth Wardrive](bluetooth-wardrive)
-      - [Bluetooth Wardrive Continuous](bluetooth-wardrive-continuous)
+      - [Bluetooth Wardrive Continuous](bluetooth-wardrive)
       - [Detect Card Skimmers](detect-card-skimmers)
     - [Bluetooth Attacks](bluetooth-attacks)
       - [Sour Apple](sour-apple)
