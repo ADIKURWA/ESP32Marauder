@@ -8,7 +8,8 @@
 | Hardware | Binary Version |
 | -------- | -------------- |
 | v4 (OG) | `_old_hardware.bin` |
-| v6 | `_new_hardware.bin` |
+| v6 | `_new_hardware.bin`/`_v6.bin` |
+| v6.1 | `_v6_1.bin` |
 | Kit | `_kit.bin` |
 | Mini | `_mini.bin` |
 | Flipper Zero | `_flipper.bin` |
