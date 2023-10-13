@@ -15,6 +15,7 @@
 - [My Flipper dev board reverts back to MarauderOTA after I disconnect it from power](#my-flipper-dev-board-reverts-back-to-marauderota-after-i-disconnect-it-from-power)
 - [How do I use different attacks and scans on commandline](#how-do-i-use-different-attacks-and-scans-on-commandline)
 - [My PCAPs aren't saving](#my-pcaps-arent-saving)
+- [Compilation error: 'class LinkedList<AccessPoint>' has no member named 'size']()
 
 ## What is Marauder
 The ESP32 Marauder is a WiFi and Bluetooth analysis tool. It hosts a suite of capabilities for frame capture, device enumeration, and frame transmission. It is intended to serve as a portable device to stand in for physically larger traffic capturing tools and to provide captured data for post-op analysis.
@@ -67,3 +68,5 @@ Make sure you have followed [these instructions](https://github.com/justcallmeko
 
 If these conditions have not been met, it is assumed you are using an SD card modification on your Dev Board or it came with an SD card slot.  
 If you have already followed those instructions and you are certain you have followed them correctly, make sure you have the `SavePCAP` settings enabled. More information for settings can be found [here](marauder-settings). If that settings is enabled, try running [`settings -r`](https://github.com/justcallmekoko/ESP32Marauder/wiki/settings-cmd) to reset your settings.
+
+## Compilation error: 'class LinkedList<AccessPoint>' has no member named 'size'
