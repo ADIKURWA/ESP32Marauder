@@ -30,12 +30,13 @@ You can use the web updater made by Spacehuhn to install/update the Marauder fir
 | Boot App   | [0xE000](https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/FlipperZeroMultiBoardS3/boot_app0.bin) | [0xE000](https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/FlipperZeroMultiBoardS3/boot_app0.bin) | [0xE000](https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/FlipperZeroMultiBoardS3/boot_app0.bin) | [0xE000](https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/FlipperZeroMultiBoardS3/boot_app0.bin) |
 | Firmware   | [0x10000](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) | [0x10000](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) | [0x10000](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) | [0x10000](https://github.com/justcallmekoko/ESP32Marauder/releases/latest) |
 
-  - Use the following table to select the proper Marauder binary for your hardware  
+  - Use the following table to select the proper Marauder binary for your hardware. Please refer to version marking on your Marauder hardware is present.  
 
 | Hardware | Binary Version |
 | -------- | -------------- |
 | v4 (OG) | `_old_hardware.bin` |
-| v6 | `_new_hardware.bin` |
+| v6 | `_new_hardware.bin`/`_v6.bin` |
+| v6.1 | `_v6_1.bin` |
 | Kit | `_kit.bin` |
 | Mini | `_mini.bin` |
 | Flipper Zero | `_flipper.bin` |
