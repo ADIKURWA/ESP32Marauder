@@ -39,3 +39,9 @@ If you would like to create your own ESP32 Marauder, check out [Getting Started]
   <img alt="Marauder logo" src="https://raw.githubusercontent.com/justcallmekoko/ESP32Marauder/master/pictures/m5stack.jpg?raw=true" height="300">
   <img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/odroid_marauder.jpg?raw=true" height="300">
 </p>
+
+
+## Stargazers over time
+*because I liked it on Xtreme*
+[![Stargazers over time](https://starchart.cc/justcallmekoko/ESP32Marauder.svg)](https://starchart.cc/justcallmekoko/ESP32Marauder)
+Hmmm...I wonder when the Flipper Zero came out.
