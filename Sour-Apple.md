@@ -1,5 +1,5 @@
 # Sour Apple
-This vulnerability and exploit was discovered and developed by [ECTO-1A](https://github.com/ECTO-1A) and ported to Arduino ESP32 by [RapierXbox](https://github.com/RapierXbox). This function causes iPhones running iOS17 to crash as a result of apple device activity spamming over Bluetooth. Additional information about this attack can be found [here](https://github.com/ECTO-1A/AppleJuice) and [here](https://github.com/RapierXbox/ESP32-Sour-Apple). To exit the attack, press anywhere on the screen and you will be returned to the Marauder menu
+This vulnerability and exploit was discovered and developed by [ECTO-1A](https://github.com/ECTO-1A) and ported to Arduino ESP32 by [RapierXbox](https://github.com/RapierXbox). This function causes iPhones running iOS17 to crash as a result of apple device activity spamming over Bluetooth. Additional information about this attack can be found [here](https://github.com/ECTO-1A/AppleJuice), [here](https://www.mobile-hacker.com/2023/10/17/spam-ios-android-and-windows-with-bluetooth-pairing-messages-using-flipper-zero-or-android-smartphone/), and [here](https://github.com/RapierXbox/ESP32-Sour-Apple). To exit the attack, press anywhere on the screen and you will be returned to the Marauder menu
 
 ## Menu Path
 `Bluetooth`>`Bluetooth Attacks`>`Sour Apple`
