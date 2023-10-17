@@ -1,5 +1,5 @@
 # Swiftpair Spam
-Swiftpair spam creates BLE Swiftpair traffic sourcing from randomly generated MAC addresses. This causes repeated notifications for BLE device pair on Swiftpair enabled devices, such as Windows PCs. This method of attack was created by [@Spooks4576](https://github.com/Spooks4576). To exit the attack, press anywhere on the screen and you will be returned to the Marauder menu.
+Swiftpair spam creates BLE Swiftpair traffic sourcing from randomly generated MAC addresses. This causes repeated notifications for BLE device pair on Swiftpair enabled devices, such as Windows PCs. The vulnerability research and attack development was conducted by [@Spooks4576](https://github.com/Spooks4576). In addition to this capability development, he has assisted in its integration into Marauder's suite of tools. To exit the attack, press anywhere on the screen and you will be returned to the Marauder menu.
 
 ## Menu Path
 `Bluetooth`>`Bluetooth Attacks`>`Swiftpair Spam`
