@@ -25,14 +25,19 @@ You only need to put the desired name of your access point in the file like so..
 
 ### index.html
 For the time being, `index.html` can only be provided via `/index.html` on the root of your ESP32-attached SD card.  
-You can find many different HTML files [here](https://github.com/bigbrodude6119/flipper-zero-evil-portal/tree/main/portals) in [bigbrodude6119](https://github.com/bigbrodude6119)'s EvilPortal repo. Once you have chosen your HTML file, rename it to `index.html` and place it in the root of your ESP32 SD card.
+You can find many different HTML files [here](https://github.com/bigbrodude6119/flipper-zero-evil-portal/tree/main/portals) in [bigbrodude6119](https://github.com/bigbrodude6119)'s EvilPortal repo. Once you have chosen your HTML file, rename it to `index.html` and place it in the root of your ESP32 SD card. If you wish to store multiple HTML files on your SD card, you can use the `sethtml` subcommand of `evilportal` to select a specific HTML file before starting the attack or when starting the attack.
 
 ## Usage
-`evilportal [-c start]`
+`evilportal [-c start [-w <html.html>]/sethtml <html.html>]`
 
 # Arguments
 | Arguments | Required/Optional | Description |
 | --------- | ----------------- | ----------- |
-| `-c` | Optional | Execute a command against the evil portal module |
+| `-c` | Optional | Execute a command against the evil portal module <`start`/`sethtml`> |
+| `-w` | Optional | Specify an HTML file to use. Only used when using `-c start` |
 
 
+### Examples
+- `evilportal -c start`: Start evil portal with default `index.html` file as the HTML
+- `evilportal -c sethtml apple.html`: Set the active HTML as `apple.html`
+- `evilportal -c start -w CoxWifi.html`: Start evil portal with `CoxWifi.html` as the HTML
