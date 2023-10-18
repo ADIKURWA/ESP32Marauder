@@ -13,7 +13,10 @@ As of v0.11.0 of the Marauder firmware, this attack will require an SD card to b
 ## Prepare Your HTML
 1. Select an html file from [this page](https://github.com/bigbrodude6119/flipper-zero-evil-portal/tree/main/portals)
 2. Rename the file to `index.html`
-3. Place the file on the root of your ESP32 SD card
+3. Place the file on the root of your ESP32 SD card  
+**OR**  
+1. Place all HTML files from [this page](https://github.com/bigbrodude6119/flipper-zero-evil-portal/tree/main/portals) on your SD card root
+2. Use `evilportal -c sethtml <html.html>` to select any of the acquired HTML files
 
 ## Prepare Your AP Configuration
 Select one of the following options to proceed. Keep in mind, Marauder's default AP name selection priority is as follows: 
