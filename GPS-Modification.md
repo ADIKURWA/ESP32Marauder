@@ -3,6 +3,7 @@ As of ESP32 Marauder firmware version 0.11.0, users can modify their Marauder ha
 
 ## Table of Concubines
 - [Introduction](#introduction)
+- [Flipper Zero WiFi Dev Board GPS Adapter](#flipper-zero-wifi-dev-board-gps-adapter)
 - [Connections](#connections)
 - [Verifying Successful Installation](#verifying-successful-installation)
 - [Antenna](#antenna)
@@ -26,6 +27,11 @@ Start Wardriving with this modification
 <img src="https://github.com/justcallmekoko/ESP32Marauder/assets/25190487/f24cf723-8423-4b60-9f5e-faaa591844ba" width="400">
 
 *DWEII GY-NEO6MV2*
+
+## Flipper Zero WiFi Dev Board GPS Adapter
+If you have a Flipper Zero WiFi Dev Board and you would like to easily add a GPS module without having to cut, strip, and solder a bunch of wires, I have compatible SD and GPS adapter board available on [Tindie](https://www.tindie.com/products/justcallmekoko/wifi-dev-board-sd-gps-adapter/).  
+![image](https://github.com/justcallmekoko/ESP32Marauder/assets/25190487/e03a2438-5647-41ab-930a-3b71f146d8f8)
+
 
 ## Connections
 Connect your GPS module VCC and GND to corresponding VCC and GND on your Marauder. Use the following table as a reference to make the UART connection between your Marauder and GPS module:
