@@ -70,7 +70,7 @@ If you would like to use the Flipper Zero and it's WiFi dev board flashed with M
 - [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 
 ### SD Card Modification
-**Note: We now offer a dedicated [SD adapter](https://www.tindie.com/products/justcallmekoko/wifi-dev-board-micro-sd-adapter/) board for a clean install on the Flipper Zero WiFi Dev Board. No wires are necessary.**  
+**Note: We now offer a dedicated [SD adapter](https://www.tindie.com/products/justcallmekoko/wifi-dev-board-micro-sd-adapter/) and [SD/GPS adapter](https://www.tindie.com/products/justcallmekoko/wifi-dev-board-sd-gps-adapter/) board for a clean install on the Flipper Zero WiFi Dev Board. No wires are necessary.**  
 A MicroSD card can be attached to the Flipper Zero WiFi Dev Board SPI via a [MicroSD Breakout](https://www.sparkfun.com/products/544). Attaching a microSD card to the Flipper Zero WiFi Dev Board will allow the Marauder firmware to save captured WiFi traffic to storage in the form of PCAP files to be exported for analysis later. If you install this mod, **DO NOT** use the `flipper_sd_serial.bin` to update your WiFi Dev Board. Refer to the following table for the required solder connections
 
 | MicroSD Breakout | Flipper Zero WiFi Dev Board |
