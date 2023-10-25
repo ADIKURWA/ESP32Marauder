@@ -41,6 +41,7 @@ Connect your GPS module VCC and GND to corresponding VCC and GND on your Maraude
 | OG Marauder | IO04 | IO13 |
 | Marauder v6 | IO04 | IO13 |
 | Marauder Kit | IO04 | IO13 |
+| Marauder Mini | IO21 | IO22 |
 | Flipper Zero WiFi Dev Board | IO09 | IO21 |
 | WiFi Dev Board Pro | IO21 | IO17 |
 
