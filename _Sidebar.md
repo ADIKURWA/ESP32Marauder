@@ -21,6 +21,7 @@
   - [External Antenna Mod](external-antenna-mod)
 - [Status Bar](status-bar)
 - [Commandline](cli)
+  - [Headless Mode](headless-mode)
   - [Commands](cli-usage)
     - [attack](attack)
     - [btwardrive](bluetooth-wardrive)
