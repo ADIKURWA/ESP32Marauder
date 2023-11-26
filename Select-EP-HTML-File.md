@@ -3,3 +3,6 @@ Allows the user to select from a list of HTML files available on their SD card. 
 
 ### Special Note
 In order for your menu list to be populated with files, you must place HTML files on the root of your SD card and their extension must end with `.html`.
+
+### Menu Location
+`WiFi`>`WiFi General`>`Select EP HTML File`
