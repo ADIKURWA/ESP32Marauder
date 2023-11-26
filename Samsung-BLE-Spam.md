@@ -1,5 +1,5 @@
 # Samsung BLE Spam
-This vulnerability and exploit was discovered and developed by [Spooks4576](https://github.com/Spooks4576). It causes Android devices to receive BLE device pair spam which renders the affected device near useless while the attack is running. To exit the attack, press anywhere on the screen and you will be returned to the Marauder menu.
+This vulnerability and exploit was discovered and developed by [Spooks4576](https://github.com/Spooks4576). It causes Samsung devices to receive BLE Watch  pair spam which renders the affected device near useless while the attack is running. To exit the attack, press anywhere on the screen and you will be returned to the Marauder menu.
 
 ### Menu Path
 `Bluetooth`>`Bluetooth Attacks`>`Sour Apple`
