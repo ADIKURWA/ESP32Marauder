@@ -26,7 +26,7 @@ The Flipper Zero has the option to attach different peripherals to it's GPIO hea
 It is recommended to use the **Flasher Script** option if you choose "Blue Pill" as this is the quickest and most direct method for installing the Marauder firmware on your WiFi Dev Board
 
 ### [WiFi Dev Board Enclosure](https://www.justcallmekokollc.com/product/flipper-zero-dev-board-enclosure/6?cp=true&sa=true&sbp=false&q=false)
-If you do not currently own a 3D printer and would like to purchase an enclosure for your WiFi Dev Board, I am currently selling them on Tindie with multiple color and material options. If you are interested, check out the shop [here](https://www.justcallmekokollc.com/product/flipper-zero-dev-board-enclosure/6?cp=true&sa=true&sbp=false&q=false).
+If you do not currently own a 3D printer and would like to purchase an enclosure for your WiFi Dev Board, I am currently selling them on our web store with multiple color and material options. If you are interested, check out the shop [here](https://www.justcallmekokollc.com/product/flipper-zero-dev-board-enclosure/6?cp=true&sa=true&sbp=false&q=false).
 <p align="left"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/8NU10HwLlY6YAxBMm5zmX4wplCM=/p/fit-in/653x435/filters:fill(fff)/i/663561/products/2022-06-22T17%3A49%3A07.471Z-IMG_2245.JPG?1655894975" width="300"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/nlp5ZR3FJufeel8-LY3qtmIj9Ps=/p/fit-in/1370x912/filters:fill(fff)/i/663561/products/2022-06-22T17%3A49%3A07.471Z-IMG_2242.JPG?1655894975" width="300"></p><br>
 <p align="left"><img alt="Enclosure" src="https://cdn.tindiemedia.com/images/resize/JFiK85Igb1EH4Sw9ACKfrHPCP8I=/p/fit-in/1370x912/filters:fill(fff)/i/663561/products/2022-08-23T17%3A05%3A36.894Z-IMG_5955%20-%20Copy.jpg?1661249267" width="500"></p>
 
@@ -70,7 +70,7 @@ If you would like to use the Flipper Zero and it's WiFi dev board flashed with M
 - [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 
 ### SD Card Modification
-**Note: We now offer a dedicated [SD adapter](https://www.tindie.com/products/justcallmekoko/wifi-dev-board-micro-sd-adapter/) and [SD/GPS adapter](https://www.tindie.com/products/justcallmekoko/wifi-dev-board-sd-gps-adapter/) board for a clean install on the Flipper Zero WiFi Dev Board. No wires are necessary.**  
+**Note: We now offer a dedicated [SD adapter](https://www.justcallmekokollc.com/product/flipper-zero-wifi-dev-board-sd-expansion/7?cp=true&sa=true&sbp=false&q=false) and [SD/GPS adapter](https://www.justcallmekokollc.com/product/flipper-zero-dev-board-sd-gps/3?cp=true&sa=true&sbp=false&q=false) board for a clean install on the Flipper Zero WiFi Dev Board. No wires are necessary.**  
 A MicroSD card can be attached to the Flipper Zero WiFi Dev Board SPI via a [MicroSD Breakout](https://www.sparkfun.com/products/544). Attaching a microSD card to the Flipper Zero WiFi Dev Board will allow the Marauder firmware to save captured WiFi traffic to storage in the form of PCAP files to be exported for analysis later. If you install this mod, **DO NOT** use the `flipper_sd_serial.bin` to update your WiFi Dev Board. Refer to the following table for the required solder connections
 
 | MicroSD Breakout | Flipper Zero WiFi Dev Board |
