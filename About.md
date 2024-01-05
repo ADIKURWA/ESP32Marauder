@@ -24,6 +24,8 @@ The ESP32 Marauder is a suite of WiFi/Bluetooth offensive and defensive tools cr
 ### YouTube
 <p align="left"><a href="https://www.youtube.com/watch?v=BGFO1wA29o8"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/esp32marauder_thumbnail.jpg" width="500"></a></p>
 
+<p align="left"><a href=https://www.youtube.com/watch?v=ilxOgEAHrdc"><img alt="Marauder logo" src="http://i3.ytimg.com/vi/ilxOgEAHrdc/hqdefault.jpg" width="500"></a></p>
+
 ### Hackster Article
 You can check out the marauder article written [here](https://www.hackster.io/news/esp32-marauder-puts-a-bluetooth-wi-fi-pen-testing-toolkit-in-your-pocket-32d389f6e66f) as well as other interesting engineering projects.
 
